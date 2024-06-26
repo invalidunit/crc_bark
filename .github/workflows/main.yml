@@ -33,9 +33,9 @@ jobs:
           sudo curl -L -o '/usr/bin/bark' 'https://raw.githubusercontent.com/invalidunit/bark_shell/main/bark'
           sudo chmod -R 0755 '/usr/bin/bark'
           
-      - name: move crc
+      - name: download crc
         run: |
-          sudo cp -a './crc' '/usr/bin/crc'
+          sudo curl -L -o '/usr/bin/crc' 'https://raw.githubusercontent.com/invalidunit/check_change/main/crc'
           sudo chmod -R 0755 '/usr/bin/crc'
 
       - name: crc
