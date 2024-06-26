@@ -1,0 +1,3 @@
+Package,Name,Version,Architecture
+ellekit,ElleKit,1.1,iphoneos-arm64
+oldabi,Legacy arm64e Support,0.3,iphoneos-arm64
