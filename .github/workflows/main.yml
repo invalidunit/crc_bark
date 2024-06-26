@@ -1,0 +1,58 @@
+name: "crc"
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 * * * *'
+    - cron: '40 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+
+      - name: install depends
+        run: |
+          sudo apt update >>/dev/null
+          sudo apt install gawk sed jq curl zstd xz-utils bzip2 gzip grep gcc git automake autoconf  -y
+          git clone 'https://github.com/jpmens/jo.git' '/tmp/jo'
+          echo 'cd /tmp/jo' >>/tmp/jo_install.sh
+          echo 'autoreconf -i' >>/tmp/jo_install.sh
+          echo './configure' >>/tmp/jo_install.sh
+          echo 'make check' >>/tmp/jo_install.sh
+          echo 'make install' >>/tmp/jo_install.sh
+          chmod -R 0755 '/tmp/jo_install.sh'
+          sudo '/tmp/jo_install.sh'
+          
+      - name: download bark_shell
+        run: |
+          sudo curl -L -o '/usr/bin/bark' 'https://raw.githubusercontent.com/invalidunit/bark_shell/main/bark'
+          sudo chmod -R 0755 '/usr/bin/bark'
+          
+      - name: move crc
+        run: |
+          sudo cp -a './crc' '/usr/bin/crc'
+          sudo chmod -R 0755 '/usr/bin/crc'
+
+      - name: crc
+        if: success()
+        env:
+          _repo: ${{ github.repository }}
+          _key: ${{ secrets._key }}
+        run: |
+          crc './Library/' 
+          
+      - name: save caches if local change
+        if: success()
+        run: |
+          git config --global user.email 'action@github.com'
+          git config --global user.name 'GitHub Action'
+          git add .
+          if ! git diff --staged --exit-code; then
+            git commit -m 'save caches'
+            git push
+          fi
