@@ -1,115 +1,115 @@
 Package,Name,Version,Architecture
 arpoison,Aemulo,0.7-1,iphoneos-arm
-awzedesign.swika,IAmLazy,1.0,iphoneos-arm
-ca.kirara.voltage,Eyeplugs,1.6.3,iphoneos-arm
-com.alphastream.linearforjuice,PowerApp,1.2,iphoneos-arm
+awzedesign.swika,PokeCall,1.0,iphoneos-arm
+ca.kirara.voltage,Aemulo (Trial),1.6.3,iphoneos-arm
+com.alphastream.linearforjuice,Sydney,1.2,iphoneos-arm
 com.alphastream.linearforsb,Return YouTube Dislike,1.4.2,iphoneos-arm64
-com.amywhile.aemulo,Atria,1.2,iphoneos-arm
-com.amywhile.aemulotrial,Orion Runtime (iOS 14),1.2,iphoneos-arm
+com.amywhile.aemulo,Return YouTube Dislike,1.2,iphoneos-arm
+com.amywhile.aemulotrial,QuitAll,1.2,iphoneos-arm
 com.amywhile.signalreborn,Legizmo Grace ,2.2.1,iphoneos-arm
-com.andrewabosh.safari-in-messages,Velox Reloaded,1.0,iphoneos-arm
-com.anthopak.appaze,OneSettings,2.1.2,iphoneos-arm
-com.anthopak.appaze2,Linear for Status Bar,1.4.1,iphoneos-arm
-com.anthopak.bluefinder,LastLook,1.1,iphoneos-arm
+com.andrewabosh.safari-in-messages,Indy,1.0,iphoneos-arm
+com.anthopak.appaze,Dayn (iOS 14),2.1.2,iphoneos-arm
+com.anthopak.appaze2,IAmLazy,1.4.1,iphoneos-arm
+com.anthopak.bluefinder,Sydney,1.1,iphoneos-arm
 com.anthopak.lastlook,Misaki,4.2,iphoneos-arm64
-com.anthopak.powercuts,Return YouTube Dislike,1.1,iphoneos-arm
-com.anthopak.sleepizy,CustomizeBW,1.2.2,iphoneos-arm
-com.anthopak.sleepizy2,Return YouTube Dislike,1.3,iphoneos-arm
+com.anthopak.powercuts,Sonitus,1.1,iphoneos-arm
+com.anthopak.sleepizy,LastLook,1.2.2,iphoneos-arm
+com.anthopak.sleepizy2,RuntimeBrowser,1.3,iphoneos-arm
 com.anthopak.switchshades,Linear for Status Bar,1.2,iphoneos-arm64
 com.antoine.kiyoharu,Kiyoharu,1.0,iphoneos-arm64
 com.antoine.senri,Zetsu,1.1,iphoneos-arm64
-com.apextweaks.veloxreloaded,Velox Reloaded,1.2,iphoneos-arm
+com.apextweaks.veloxreloaded,Kai,1.2,iphoneos-arm
 com.apextweaks.veloxreloaded2,Velox Reloaded 2,2.1.1,iphoneos-arm
 com.apextweaks.veza,Veza,1.2.0,iphoneos-arm
 com.b4db1r3.3dglassiertouch,Velvet 2,1.6.1,iphoneos-arm64
-com.bank5ia.sydney,Return YouTube Dislike,1.1,iphoneos-arm
+com.bank5ia.sydney,NewTerm 2,1.1,iphoneos-arm
 com.beckettobrien.btmanager+,BTManager+,1.2.0,iphoneos-arm
-com.beckettobrien.spectral,Spectral,1.0.0,iphoneos-arm
-com.burritoz.ash,Ash,1.0.1,iphoneos-arm
+com.beckettobrien.spectral,Akara,1.0.0,iphoneos-arm
+com.burritoz.ash,Quanta,1.0.1,iphoneos-arm
 com.burritoz.kai,kai,1.5.1,iphoneos-arm
 com.burritoz.thenatis.indy,Indy,1.2.0,iphoneos-arm
-com.cameronkatri.quickactions,RelocateMe,1.0.0,iphoneos-arm
-com.cheeco.emotive,RelocateMe,1.1.5,iphoneos-arm
-com.cheeco.emotivedark,QuitAll,1.0,iphoneos-arm
+com.cameronkatri.quickactions,Legizmo Grace ,1.0.0,iphoneos-arm
+com.cheeco.emotive,Sydney,1.1.5,iphoneos-arm
+com.cheeco.emotivedark,Velvet,1.0,iphoneos-arm
 com.dave1482.powerapp,Return YouTube Dislike,7.0,iphoneos-arm64
 com.daveapps.ainsworth,IAmLazy,1.6,iphoneos-arm64
-com.daveapps.quickls,Atria,3.0.1,iphoneos-arm
-com.daveapps.quitall,Return YouTube Dislike,3.1,iphoneos-arm
-com.devvix.dayn14,Dayn (iOS 14),1.0,iphoneos-arm
-com.ericrabil.musica,Musica,1.0.0,iphoneos-arm
-com.esquilli.viper,Playtopia 2,1.0,iphoneos-arm
-com.fpt.photomanager12,Appaze 2,1.2.5,iphoneos-arm
-com.fpt.pokecall,Sydney,1.4.13,iphoneos-arm
+com.daveapps.quickls,Legizmo 'Jupiter',3.0.1,iphoneos-arm
+com.daveapps.quitall,Antoine,3.1,iphoneos-arm
+com.devvix.dayn14,Cask 3,1.0,iphoneos-arm
+com.ericrabil.musica,Dayn,1.0.0,iphoneos-arm
+com.esquilli.viper,Velvet,1.0,iphoneos-arm
+com.fpt.photomanager12,Sydney,1.2.5,iphoneos-arm
+com.fpt.pokecall,Return YouTube Dislike,1.4.13,iphoneos-arm
 com.gabehern.goji,Goji,2.1.2,iphoneos-arm
-com.gabehern.gojipro,Boardy,1.0.2-1,iphoneos-arm
-com.ginsu.comet,Aemulo,1.0,iphoneos-arm
-com.ginsu.playtopia2,Boardy,1.0,iphoneos-arm
-com.greg0109.boardy,ForwardNotifier,1.1,iphoneos-arm
-com.greg0109.forwardnotifier,LockShut,1.4,iphoneos-arm
-com.greg0109.lockshut,LockShut,1.1,iphoneos-arm
+com.gabehern.gojipro,Aemulo,1.0.2-1,iphoneos-arm
+com.ginsu.comet,betterAlarm,1.0,iphoneos-arm
+com.ginsu.playtopia2,Velox Reloaded,1.0,iphoneos-arm
+com.greg0109.boardy,LockShut,1.1,iphoneos-arm
+com.greg0109.forwardnotifier,Velvet,1.4,iphoneos-arm
+com.greg0109.lockshut,Velvet,1.1,iphoneos-arm
 com.greg0109.silentmaps13,SilentMaps13,1.0,iphoneos-arm
 com.gushi.pale,Duo,1.0,iphoneos-arm64
 com.gushi.ripple,Misaki,1.6,iphoneos-arm64
 com.hitori.misaki,Misaki,2.0,iphoneos-arm64
 com.icraze.artemis,IAmLazy,1.4,iphoneos-arm64
-com.initwithframe.velvet,Velvet,1.5,iphoneos-arm
-com.ios.alwaysvpn,OneSettings,1.0,iphoneos-arm
-com.jacobcxdev.idunnou,iDunnoU,1.4.6,iphoneos-arm
+com.initwithframe.velvet,Kai,1.5,iphoneos-arm
+com.ios.alwaysvpn,Sleepizy 2,1.0,iphoneos-arm
+com.jacobcxdev.idunnou,Wonderbar,1.4.6,iphoneos-arm
 com.jacobcxdev.iris,Iris,1.1.5,iphoneos-arm
 com.jacobcxdev.libjcx,libJCX,1.1.1,iphoneos-arm
-com.jannikcrack.devvix.dayn,Dayn,1.2,iphoneos-arm
+com.jannikcrack.devvix.dayn,Noctis Neo,1.2,iphoneos-arm
 com.johnzaro.orion,Orion,1.2,iphoneos-arm
 com.julian.newglyph,Artemis,1.0,iphoneos-arm64
-com.julian.shiiny,betterAlarm,1.3,iphoneos-arm64
-com.kadir1009.kara13,Aemulo (Trial),2.6,iphoneos-arm
-com.kef.rofi,Libellum,1.2,iphoneos-arm
-com.lacertosusrepo.libdeusprefs,libDeusPrefs,1.0.4,iphoneos-arm
-com.lacertosusrepo.libellum,Noctis Neo,1.6,iphoneos-arm
+com.julian.shiiny,Felicity Pro,1.3,iphoneos-arm64
+com.kadir1009.kara13,Comet,2.6,iphoneos-arm
+com.kef.rofi,PrefixUI,1.2,iphoneos-arm
+com.lacertosusrepo.libdeusprefs,Eyeplugs,1.0.4,iphoneos-arm
+com.lacertosusrepo.libellum,Siliqua Pro,1.6,iphoneos-arm
 com.laughingquoll.daisy,Joe,1.0,iphoneos-arm
 com.laughingquoll.darkalertspls,Comet,1.0,iphoneos-arm
-com.laughingquoll.noctis13,PrefixUI,1.2,iphoneos-arm
-com.laughingquoll.prefixui,Siliqua Pro,1.3,iphoneos-arm
-com.laughingquoll.siliquapro,Siliqua Pro,1.2,iphoneos-arm
+com.laughingquoll.noctis13,Sunflower,1.2,iphoneos-arm
+com.laughingquoll.prefixui,Watermelon,1.3,iphoneos-arm
+com.laughingquoll.siliquapro,Watermelon,1.2,iphoneos-arm
 com.laughingquoll.sunflower,Comet,1.1,iphoneos-arm
-com.laughingquoll.watermelon,Watermelon,1.4,iphoneos-arm
+com.laughingquoll.watermelon,Magma Evo,1.4,iphoneos-arm
 com.luf.joe,IAmLazy,1.0,iphoneos-arm64
 com.megadev.mediabar14,MediaBar14,1.0,iphoneos-arm
-com.miguelaka95.customizebw,Dayn (iOS 14),1.0.0,iphoneos-arm
+com.miguelaka95.customizebw,Sleepizy 2,1.0.0,iphoneos-arm
 com.moski.divise,Divisé,1.2.1,iphoneos-arm
 com.mpg13.flashback,Artemis,4.1,iphoneos-arm
-com.nightwind.boldersreborn,LastLook,1.1.2,iphoneos-arm64
+com.nightwind.boldersreborn,WeatherGround,1.1.2,iphoneos-arm64
 com.nightwind.jade,Daisy,1.0,iphoneos-arm64
 com.nightwind.onesettings,16Player,2.1.1,iphoneos-arm64
-com.nightwind.searchdots,Sonitus,1.1.5,iphoneos-arm64
-com.noisyflake.albummanager,Shiiny,1.0,iphoneos-arm64
-com.noisyflake.betteralarm,Comet,1.4,iphoneos-arm64
+com.nightwind.searchdots,Shiiny,1.1.5,iphoneos-arm64
+com.noisyflake.albummanager,Alderis Color Picker,1.0,iphoneos-arm64
+com.noisyflake.betteralarm,Velvet 2,1.4,iphoneos-arm64
 com.noisyflake.cozybadges,Velvet 2,1.2.3,iphoneos-arm
-com.noisyflake.magmaevo,Magma Evo,2.0.9,iphoneos-arm
+com.noisyflake.magmaevo,SwipeExtenderX,2.0.9,iphoneos-arm
 com.noisyflake.velvet2,Artemis,2.1.2,iphoneos-arm64
 com.pixelomer.tweakreviews-db,Legizmo 'Lighthouse',1.2,iphoneos-arm64
 com.ps.returnytmdislikes,Return YouTube Dislike,1.0.1,iphoneos-arm64
 com.qiop1379.swipeextenderx,Ripple,1.6.1~2,iphoneos-arm64
-com.rileytestut.altdaemon,Aemulo (Trial),1.0.1,iphoneos-arm
+com.rileytestut.altdaemon,AltDaemon,1.0.1,iphoneos-arm
 com.ryannair05.audiosnapshotserver,AudioSnapshotServer,2.1.2,iphoneos-arm
 com.ryannair05.audiosnapshotserver2,Mitsuha 6,1.0,iphoneos-arm64
-com.ryannair05.cask3,Aemulo,1.0.2,iphoneos-arm64
-com.ryannair05.chromaflow,Sonitus,1.0.3,iphoneos-arm64
+com.ryannair05.cask3,Sonitus,1.0.2,iphoneos-arm64
+com.ryannair05.chromaflow,SearchDots,1.0.3,iphoneos-arm64
 com.ryannair05.cylinder,Cylinder Reborn,1.1,iphoneos-arm
 com.ryannair05.libmitsuha6,Glance,1.0,iphoneos-arm64
 com.ryannair05.libmitsuhaforever,libmitsuhaforever,1.4.2,iphoneos-arm
 com.ryannair05.mitsuha6,Glance,1.0,iphoneos-arm64
-com.ryannair05.mitsuhaforever,Return YouTube Dislike,1.4.3,iphoneos-arm
-com.semvis.sonitus,Atria,1.0.7,iphoneos-arm64
+com.ryannair05.mitsuhaforever,Aemulo (Trial),1.4.3,iphoneos-arm
+com.semvis.sonitus,betterAlarm,1.0.7,iphoneos-arm64
 com.serena.antoine,ayeris,1.3,iphoneos-arm64
 com.serena.AppIndex,Velvet 2,1.0,iphoneos-arm64
-com.shade.libpalette,libPalette,1.0,iphoneos-arm
-com.shade.nougat,Nougat,1.3,iphoneos-arm
+com.shade.libpalette,Musica,1.0,iphoneos-arm
+com.shade.nougat,iDunnoU,1.3,iphoneos-arm
 com.spark.snowboard,SnowBoard,1.4.20~Beta4,iphoneos-arm
-com.squ1dd13.bouncebass,Titan,1.0,iphoneos-arm
+com.squ1dd13.bouncebass,Kalm,1.0,iphoneos-arm
 com.squ1dd13.inky,Inky,1.0,iphoneos-arm
 com.sreerag.duo,Ripple,1.1,iphoneos-arm64
 com.sreerag.layers,Legizmo 'Kincaid',1.1,iphoneos-arm64
-com.tcbrooks.titan,WeatherGround,1.0,iphoneos-arm
+com.tcbrooks.titan,iDunnoU,1.0,iphoneos-arm
 com.teslaman3092.16player,Glance,1.0.5,iphoneos-arm64
 com.thomz.cenamo,Cenamo,1.1,iphoneos-arm
 com.thomz.rounddockremastered,Artemis,1.0,iphoneos-arm64
@@ -117,46 +117,46 @@ com.tr1fecta.akara,Linear for Status Bar,2.0.2,iphoneos-arm64
 com.tr1fecta.magmaapi,MagmaAPI,1.0,iphoneos-arm
 com.tr1fecta.weatherground,WeatherGround,1.4,iphoneos-arm
 com.twickd.jannikcrack.badgebar,BadgeBar,1.3.7,iphoneos-arm
-com.xandesign.felicitypro,Cephei Tweak Support,4.0,iphoneos-arm
+com.xandesign.felicitypro,SearchDots,4.0,iphoneos-arm
 de.janis.glance,Return YouTube Dislike,1.2,iphoneos-arm64
-dev.aryanjnambiar.wonderbar,Wonderbar,1.1,iphoneos-arm
-dev.theos.orion12,Velvet 2,1.0.1,iphoneos-arm
-dev.theos.orion14,Velvet 2,1.0.1,iphoneos-arm64
+dev.aryanjnambiar.wonderbar,StopCrashingPls,1.1,iphoneos-arm
+dev.theos.orion12,Shiiny,1.0.1,iphoneos-arm
+dev.theos.orion14,OneSettings,1.0.1,iphoneos-arm64
 hi.my.name.is.ubik.kalm,Kalm,3.0.3,iphoneos-arm
-iterm2-shell-integration,iTerm2 Shell Integration,1.0+gita586923,iphoneos-arm
+iterm2-shell-integration,libDeusPrefs,1.0+gita586923,iphoneos-arm
 jp.dcsyhi.airaw,OneSettings,1.6.5,iphoneos-arm64
 jp.dcsyhi.zetsu,Zetsu,1.6,iphoneos-arm64
-libnet9,Asteroid,1.2-1,iphoneos-arm
-lunotech11.legizmo.grace,Cask 3,2.3.1,iphoneos-arm
+libnet9,RuntimeBrowser,1.2-1,iphoneos-arm
+lunotech11.legizmo.grace,Sleepizy,2.3.1,iphoneos-arm
 lunotech11.Legizmo.Grace,LastLook,2.3.1-3,iphoneos-arm
-lunotech11.legizmo.jupiter,Return YouTube Dislike,3.3.2-2,iphoneos-arm
-lunotech11.Legizmo.Jupiter,IAmLazy,3.3.2,iphoneos-arm
+lunotech11.legizmo.jupiter,Atria,3.3.2-2,iphoneos-arm
+lunotech11.Legizmo.Jupiter,AlwaysVPN,3.3.2,iphoneos-arm
 lunotech11.legizmo.kincaid,Airaw,4.2.5,iphoneos-arm64
-lunotech11.Legizmo.Kincaid,Aemulo,4.0,iphoneos-arm
+lunotech11.Legizmo.Kincaid,Alderis Color Picker,4.0,iphoneos-arm
 lunotech11.legizmo.lighthouse,Ripple,5.2,iphoneos-arm64
-me.aspenuwu.xenon,Alderis Color Picker,1.1.3,iphoneos-arm
-me.aspenuwu.zinnia,Airaw,1.1.5,iphoneos-arm
+me.aspenuwu.xenon,Dayn (iOS 14),1.1.3,iphoneos-arm
+me.aspenuwu.zinnia,SignalReborn,1.1.5,iphoneos-arm
 me.aspenuwu.zinnia.trial,Zinnia (Trial),1.1.4,iphoneos-arm
-me.daveapps.counted,Atria,1,iphoneos-arm
-me.lau.atria,AlbumManager,1.4.1,iphoneos-arm64
+me.daveapps.counted,Lyricify,1,iphoneos-arm
+me.lau.atria,Felicity Pro,1.4.1,iphoneos-arm64
 me.lightmann.iamlazy,Return YouTube Dislike,2.6.0,iphoneos-arm64
-me.midnightchips.asteroid14,Lyricify,1.0,iphoneos-arm
+me.midnightchips.asteroid14,Cephei Tweak Support,1.0,iphoneos-arm
 me.midnightchips.harpy-reloaded,Harpy Reloaded,1.0.1,iphoneos-arm
-me.midnightchips.relocateme,Dayn (iOS 14),1.0,iphoneos-arm
+me.midnightchips.relocateme,BlueFinder,1.0,iphoneos-arm
 me.midnightchips.snapback,SnapBack,2.0.3,iphoneos-arm
 me.nebula.ding,Legizmo 'Kincaid',1.1.0,iphoneos-arm64
 me.renai.lyricify,Return YouTube Dislike,2.1.4-1,iphoneos-arm
 me.surenix.ayeris,Antoine,1.5,iphoneos-arm64
-weeb.lillie.youtubedislikesreturn,LastLook,1.9.1,iphoneos-arm
-ws.hbang.alderis,Sleepizy 2,1.2,iphoneos-arm
-ws.hbang.common,AlbumManager,2.0,iphoneos-arm64
-ws.hbang.newterm2,Velvet 2,2.5,iphoneos-arm
+weeb.lillie.youtubedislikesreturn,SwitchShades,1.9.1,iphoneos-arm
+ws.hbang.alderis,Return YouTube Dislike,1.2,iphoneos-arm
+ws.hbang.common,Shiiny,2.0,iphoneos-arm64
+ws.hbang.newterm2,Return YouTube Dislike,2.5,iphoneos-arm
 ws.hbang.newterm3,Aemulo (Trial),3.0~beta1,iphoneos-arm64
-ws.hbang.newtermfonts,Cephei Tweak Support,1.0,iphoneos-arm
-ws.hbang.quanta,StopCrashingPls,1.0,iphoneos-arm
-ws.hbang.runtimebrowser,Aemulo,1.1,iphoneos-arm
-ws.hbang.stopcrashingpls,Multipla,1.0,iphoneos-arm
+ws.hbang.newtermfonts,Aemulo,1.0,iphoneos-arm
+ws.hbang.quanta,Multipla,1.0,iphoneos-arm
+ws.hbang.runtimebrowser,NewTerm 3 Beta,1.1,iphoneos-arm
+ws.hbang.stopcrashingpls,Multipla Lite,1.0,iphoneos-arm
 xyz.burritoz.thomz.multipla,Multipla,2.1.6,iphoneos-arm
-xyz.burritoz.thomz.multiplalite,Jellyfish,2.0.0~lite-1,iphoneos-arm
-xyz.royalapps.jellyfish,Return YouTube Dislike,1.6.5,iphoneos-arm
-xyz.royalapps.prokeys,BetterAlarm,1.1,iphoneos-arm
+xyz.burritoz.thomz.multiplalite,QuickActions,2.0.0~lite-1,iphoneos-arm
+xyz.royalapps.jellyfish,Legizmo Grace ,1.6.5,iphoneos-arm
+xyz.royalapps.prokeys,Mitsuha Forever,1.1,iphoneos-arm
