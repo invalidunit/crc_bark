@@ -50,7 +50,7 @@ com.greg0109.lockshut,Velvet,1.1,iphoneos-arm
 com.greg0109.silentmaps13,SilentMaps13,1.0,iphoneos-arm
 com.gushi.pale,Duo,1.0,iphoneos-arm64
 com.gushi.ripple,Misaki,1.6,iphoneos-arm64
-com.hitori.misaki,Solstice,2.1.1,iphoneos-arm64
+com.hitori.misaki,,2.1.2,iphoneos-arm64
 com.icraze.artemis,IAmLazy,1.4,iphoneos-arm64
 com.initwithframe.velvet,Kai,1.5,iphoneos-arm
 com.ios.alwaysvpn,Sleepizy 2,1.0,iphoneos-arm
@@ -88,7 +88,7 @@ com.noisyflake.magmaevo,SwipeExtenderX,2.0.9,iphoneos-arm
 com.noisyflake.velvet2,Artemis,2.1.2,iphoneos-arm64
 com.pixelomer.oneko,Return YouTube Dislike,1.0.0,iphoneos-arm64
 com.pixelomer.tweakreviews-db,Legizmo 'Lighthouse',1.2,iphoneos-arm64
-com.ps.returnytmdislikes,,1.0.2,iphoneos-arm64
+com.ps.returnytmdislikes,Misaki,1.0.2,iphoneos-arm64
 com.qiop1379.swipeextenderx,Ripple,1.6.1~2,iphoneos-arm64
 com.rileytestut.altdaemon,AltDaemon,1.0.1,iphoneos-arm
 com.ryannair05.audiosnapshotserver,AudioSnapshotServer,2.1.2,iphoneos-arm
