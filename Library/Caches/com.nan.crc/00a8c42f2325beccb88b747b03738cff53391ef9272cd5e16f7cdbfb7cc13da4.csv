@@ -52,7 +52,7 @@ com.nan.patchpath,patch path(beta),0.1.1-b6,iphoneos-arm
 com.nan.playing.zh-hans,zh-Hans for Playing,0.1.0,iphoneos-arm
 com.nan.pulloverpro.zh-hans,zh-Hans for PullOver Pro,0.1.1,iphoneos-arm
 com.nan.raru,Respring after reboot userspace,0.1.4,iphoneos-arm64e
-com.nan.realitytmp,Reality tmp,0.2.1,iphoneos-arm64e
+com.nan.realitytmp,Reality tmp,0.2.2,iphoneos-arm64e
 com.nan.rebirth,Rebirth,0.1.4,iphoneos-arm64e
 com.nan.resetfonts,reset fonts,0.1.5,iphoneos-arm64
 com.nan.sabotageocsp,Sabotage OCSP,0.3.1,iphoneos-arm64e
