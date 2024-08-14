@@ -1,6 +1,7 @@
 Package,Name,Version,Architecture
 com.3dmenu.cheatpatch,3DMenuGameTool,1.0.0,iphoneos-arm64
 com.xx.baiduhook,百度地图优化,1.0.2,iphoneos-arm64
+com.xx.dazzpro,DazzPro,1.0.0,iphoneos-arm64
 com.xx.dyhook,抖音图层,2.0.3-6,iphoneos-arm64
 com.xx.ecnyhook,数字人民币屏蔽越狱,1.0.2,iphoneos-arm64
 com.xx.gaodehook,高德地图优化,1.0.4,iphoneos-arm64
@@ -8,6 +9,7 @@ com.xx.iboxhook,iBoxNoAds,1.0.7,iphoneos-arm64
 com.xx.intolivehook,intolivePro,1.0.0,iphoneos-arm64
 com.xx.jrtthook,今日头条Hook,1.0.4,iphoneos-arm64
 com.xx.kshook,快手Hook,1.0.6-2,iphoneos-arm64
+com.xx.liitpro,LiitPro,1.0.0,iphoneos-arm64
 com.xx.machostrip,machostrip,1.0.0,iphoneos-arm64
 com.xx.ppxhook,皮皮虾优化,1.0.7,iphoneos-arm64
 com.xx.pyehook,配音鹅会员,1.0.0,iphoneos-arm64
