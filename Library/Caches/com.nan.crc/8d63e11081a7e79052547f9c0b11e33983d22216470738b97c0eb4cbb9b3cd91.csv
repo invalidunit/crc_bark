@@ -50,7 +50,7 @@ com.greg0109.lockshut,LockShut,1.1,iphoneos-arm
 com.greg0109.silentmaps13,SilentMaps13,1.0,iphoneos-arm
 com.gushi.pale,Duo,1.0,iphoneos-arm64
 com.gushi.ripple,Misaki,1.6,iphoneos-arm64
-com.hitori.misaki,Return YouTube Dislike,2.1.4,iphoneos-arm64
+com.hitori.misaki,Duo Free,2.1.4,iphoneos-arm64
 com.icraze.artemis,IAmLazy,1.4,iphoneos-arm64
 com.initwithframe.velvet,Velvet,1.5,iphoneos-arm
 com.ios.alwaysvpn,OneSettings,1.0,iphoneos-arm
@@ -109,7 +109,8 @@ com.solstice,,2.2,iphoneos-arm64
 com.spark.snowboard,SnowBoard,1.4.20~Beta4,iphoneos-arm
 com.squ1dd13.bouncebass,Titan,1.0,iphoneos-arm
 com.squ1dd13.inky,Inky,1.0,iphoneos-arm
-com.sreerag.duo,Solstice,1.2,iphoneos-arm64
+com.sreerag.duo,Return YouTube Dislike,1.2,iphoneos-arm64
+com.sreerag.duoFree,Solstice,1.0,iphoneos-arm64
 com.sreerag.layers,Legizmo 'Kincaid',1.1,iphoneos-arm64
 com.tcbrooks.titan,WeatherGround,1.0,iphoneos-arm
 com.teslaman3092.16player,Glance,1.0.5,iphoneos-arm64
