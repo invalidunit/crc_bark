@@ -300,7 +300,7 @@ com.spark.libsparkapplist,libSparkAppList,1.0.10,iphoneos-arm
 com.spark.libsparkcolourpicker,libsparkcolourpicker,1.0.2,iphoneos-arm
 com.springtomize.st4.new,Springtomize 4,4.1.0,iphoneos-arm
 com.springtomize.st5,Springtomize 5,5.2.6,iphoneos-arm
-com.squidforce.copyvault,CopyVault,1.4.2,iphoneos-arm64
+com.squidforce.copyvault,CopyVault,1.4.6,iphoneos-arm64
 com.stevsarm.gateau,Gateau,1.60,iphoneos-arm64
 com.stevsarm.harvest,Harvest,1.1.1,iphoneos-arm64
 com.stevsarm.taffy,Taffy,1.0,iphoneos-arm64
@@ -405,4 +405,5 @@ org.packix.sleeper,Sleeper (iOS 8-14),7.0.5,iphoneos-arm
 ovh.exerhythm.cardculator,Cardculator,2.1,iphoneos-arm64
 tw.hiraku.ikeywi3p,iKeywi 3 (iOS 8~12),3.4.3,iphoneos-arm
 tw.hiraku.ikeywi4,iKeywi 4,4.2.1,iphoneos-arm64
+wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,2.0,iphoneos-arm64
 wiki.qaq.trapp.jb,TrollRecorder JB,1.9.8-236,iphoneos-arm64
