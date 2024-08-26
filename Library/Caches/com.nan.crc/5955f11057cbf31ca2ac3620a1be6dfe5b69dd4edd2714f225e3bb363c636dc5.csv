@@ -199,7 +199,7 @@ com.miguelaka95.bettercc,BetterCC,0.0.5,iphoneos-arm
 com.miguelaka95.customizecc,CustomizeCC,1.4.3,iphoneos-arm64
 com.misakaproject.macaron,Macaron,1.0.1,iphoneos-arm64
 com.miwix.selenium,Selenium,1.2.1,iphoneos-arm
-com.mojox.dark,MojoX Dark,2.1,iphoneos-arm64
+com.mojox.dark,MojoX Dark,2.2,iphoneos-arm64
 com.mrgcgamer.libgcuniversal,LibGcUniversal,1.7.0,iphoneos-arm64
 com.mtac.alpine,Alpine,1.4,iphoneos-arm64
 com.mtac.ampere,Ampere,1.4,iphoneos-arm64
@@ -408,5 +408,6 @@ org.packix.sleeper,Sleeper (iOS 8-14),7.0.5,iphoneos-arm
 ovh.exerhythm.cardculator,Cardculator,2.1,iphoneos-arm64
 tw.hiraku.ikeywi3p,iKeywi 3 (iOS 8~12),3.4.3,iphoneos-arm
 tw.hiraku.ikeywi4,iKeywi 4,4.2.1,iphoneos-arm64
-wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,2.7,iphoneos-arm64
+wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,2.8,iphoneos-arm64
 wiki.qaq.trapp.jb,TrollRecorder JB,1.9.8-236,iphoneos-arm64
+wiki.qaq.writenow,Write Now,1.6,iphoneos-arm64
