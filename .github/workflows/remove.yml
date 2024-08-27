@@ -19,7 +19,7 @@ jobs:
           
       - name: download remove_all_actions
         run: |
-          sudo curl -L -o '/usr/bin/bark' 'https://raw.githubusercontent.com/invalidunit/action/main/remove_all_actions'
+          sudo curl -L -o '/usr/bin/remove_all_actions' 'https://raw.githubusercontent.com/invalidunit/action/main/remove_all_actions'
           sudo chmod -R 0755 '/usr/bin/remove_all_actions'
 
       - name: remove all actions
