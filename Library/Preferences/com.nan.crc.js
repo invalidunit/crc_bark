@@ -47,6 +47,22 @@
     {
       "enable": 1,
       "url": "https://jailrepo.initnil.com/"
+    },
+    {
+      "enable": 1,
+      "url": "http://apt.thebigboss.org/repofiles/cydia/dists/stable/main/binary-iphoneos-arm/",
+      "bark": {
+        "icon": "https://featuredpage.getsileo.app/deprecatedicons/BigBoss@3x.png",
+        "title": "来自 crc - BigBoss - rootful 已变更"
+      }
+    },
+    {
+      "enable": 1,
+      "url": "http://apt.thebigboss.org/repofiles/cydia/dists/stable/main/binary-iphoneos-arm64/",
+      "bark": {
+        "icon": "https://featuredpage.getsileo.app/deprecatedicons/BigBoss@3x.png",
+        "title": "来自 crc - BigBoss - rootless 已变更"
+      }
     }
   ]
 }
