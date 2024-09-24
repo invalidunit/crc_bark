@@ -52,7 +52,7 @@
       "enable": 1,
       "url": "http://apt.thebigboss.org/repofiles/cydia/dists/stable/main/binary-iphoneos-arm/",
       "bark": {
-        "icon": "https://featuredpage.getsileo.app/deprecatedicons/BigBoss@3x.png",
+        "icon": "https://invalidunit.github.io/Bark_Icons/bigboss/bigboss@3x.png",
         "title": "来自 crc - BigBoss - rootful 已变更"
       }
     },
@@ -60,8 +60,16 @@
       "enable": 1,
       "url": "http://apt.thebigboss.org/repofiles/cydia/dists/stable/main/binary-iphoneos-arm64/",
       "bark": {
-        "icon": "https://featuredpage.getsileo.app/deprecatedicons/BigBoss@3x.png",
+        "icon": "https://invalidunit.github.io/Bark_Icons/bigboss/bigboss@3x.png",
         "title": "来自 crc - BigBoss - rootless 已变更"
+      }
+    },
+    {
+      "enable": 1,
+      "url": "https://apt.procurs.us/dists/iphoneos-arm64/1700/main/binary-iphoneos-arm/",
+      "bark": {
+        "icon": "https://invalidunit.github.io/Bark_Icons/procursus/procursus@3x.png",
+        "title": "来自 crc - Procursus - iOS14 已变更"
       }
     }
   ]
