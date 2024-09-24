@@ -5,7 +5,7 @@ aircrack-ng,aircrack-ng,1.7,iphoneos-arm
 amy-keyring,Amy APT Keyring,2021.07.10,all
 aom-tools,aom-tools,3.3.0,iphoneos-arm
 appuninst,appuninst,1.0.0,iphoneos-arm
-apt,apt,2.9.4-1,iphoneos-arm
+apt,apt,2.9.0,iphoneos-arm
 apt-file,apt-file,3.3,all
 aptitude,aptitude,0.8.13,iphoneos-arm
 aptitude-locale,aptitude-locale,0.8.13,iphoneos-arm
@@ -25,7 +25,6 @@ autopoint,autopoint,0.22,iphoneos-arm
 autossh,autossh,1.4g,iphoneos-arm
 axel,axel,2.17.11,iphoneos-arm
 base,base,2,iphoneos-arm
-bash,bash,5.2.21,iphoneos-arm
 bash-completion,bash-completion,2.11,all
 basic-cmds,basic-cmds,67.100.1,iphoneos-arm
 bastet,Bastard Tetris,0.43.2,iphoneos-arm
