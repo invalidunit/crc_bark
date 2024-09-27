@@ -148,7 +148,7 @@ cn.tinyapps.location360,虚拟定位 (经典+扫街+模拟导航),2.6.5,iphoneos
 cn.tinyapps.location360pro,360虚拟定位[企业版](Fake Location Pro),3.0.8,iphoneos-arm
 cn.tinyapps.renet,连个锤子-越狱联网一键修复[iOS 10.0~14.3],1.2,iphoneos-arm
 cn.tinyapps.respringassistant,Respring Assistant(快速注销+联网修复) - Restart your SpringBoard QUICKLY Refresh App Icons EASILY Restore network,1.6.1,iphoneos-arm
-cn.tinyapps.rst,361一键新机(MultiAccount Master)-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串,2.4.1,iphoneos-arm
+cn.tinyapps.rst,361一键新机(MultiAccount Master)-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串,2.4.1.1,iphoneos-arm
 cn.tinyapps.wechatonelite,微信炫铃Lite(Tiny Tones Lite)-史上最强修改微信铃音插件,1.1.2,iphoneos-arm
 cn.tinyapps.wechatonepro,微信炫铃Pro(TinyTones Pro)-个性化的微信铃声修改器,1.7,iphoneos-arm
 cn.tinyapps.wxtones,微信炫铃-一键设定个性化微信提示音(Customized Tones for WeChat),2.1,iphoneos-arm
@@ -1727,10 +1727,10 @@ com.ericday.ibluevertoggle,iBluever WOD SBS Toggle,2.0.1,iphoneos-arm
 com.ericday.itether,iTether w/ OnDemand,2.2.3,iphoneos-arm
 com.ericday.itethertoggle,iTether w/ OnDemand SBSettings Toggle,2.0.5,iphoneos-arm
 com.ericrabil.diesidebar,DieSidebar,1.0,iphoneos-arm
-com.erik.applockerplus,App加锁助手(App Lock),7.0.9,iphoneos-arm
+com.erik.applockerplus,App加锁助手(App Lock),7.1.0,iphoneos-arm
 com.erik.fakeloocation,位置穿越,1.0.3,iphoneos-arm
 com.erik.freemusicplayerpro,享乐音乐,4.0.6,iphoneos-arm
-com.erik.inapplock,App Lock(App内部锁),1.1.1,iphoneos-arm
+com.erik.inapplock,In-App Locker(App内部锁),1.1.2,iphoneos-arm
 com.erik.simpleapplock,SimpleAppLock,1.0-2,iphoneos-arm
 com.estertion.replaykiteverywhere,ReplayKit Everywhere,1.7.9,iphoneos-arm
 com.eswick.appcenter,App Center,1.0.5-1,iphoneos-arm
@@ -9776,7 +9776,7 @@ tmobile-us-carrier-internet2,T-Mobile US Carrier (internet2 APN),1.0,iphoneos-ar
 tomkeywang.killkbcache,KillKBCache,0.1,iphoneos-arm
 tonyli.lunarcalendar.widget,Chinese Calendar for Notification Center,1.1.2-2,iphoneos-arm
 top.cydiabc.bottombarhigh,BottomBarhigh-APP底部抬高,1.1,iphoneos-arm
-topme.ios.fakegps,定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行,3.9.11,iphoneos-arm
+topme.ios.fakegps,定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行,3.9.12,iphoneos-arm
 touch-lighttpd-php-mysql,touch-lighttpd-php-mysql,2.10-11,iphoneos-arm
 tougbao.qqanitirecallhook,QQanitiRecallHook,1.2,iphoneos-arm
 trafficmap.probki20.com,Russian Traffic Jams,2.1.5,iphoneos-arm
