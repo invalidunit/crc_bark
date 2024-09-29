@@ -2,7 +2,7 @@ Package,Name,Version,Architecture
 com.3dmenu.cheatpatch,3DMenuGameTool,1.0.0,iphoneos-arm64
 com.xx.baiduhook,百度地图优化,1.0.2,iphoneos-arm64
 com.xx.dazzpro,DazzPro,1.0.0,iphoneos-arm64
-com.xx.dyhook,抖音图层,2.0.5-3,iphoneos-arm64
+com.xx.dyhook,抖音图层,2.0.5-5,iphoneos-arm64
 com.xx.ecnyhook,数字人民币屏蔽越狱,1.0.2,iphoneos-arm64
 com.xx.gaodehook,高德地图优化,1.0.4,iphoneos-arm64
 com.xx.growvip,Grow会员,1.0.0,iphoneos-arm64
@@ -20,5 +20,5 @@ com.xx.simcitycheat,SimCityCheat,1.0.0,iphoneos-arm64
 com.xx.soulatch,SOULPatch,1.0.0,iphoneos-arm64
 com.xx.spidercrack,SpiderProxyCrack,1.0.3,iphoneos-arm64
 com.xx.totofinancevip,图图记账会员,1.0.0,iphoneos-arm64
-com.xx.xhshook,小红薯,1.1.0-2,iphoneos-arm64
+com.xx.xhshook,小红薯,1.1.0-3,iphoneos-arm64
 com.xx.ysbrowserhook,亚瑟浏览器Pro,1.0.0,iphoneos-arm64
