@@ -36,7 +36,7 @@ com.nan.enableccmutemodule,Enable CC MuteModule,0.2.0,iphoneos-arm64e
 com.nan.enableknownnetworks,Enable known networks,0.1.0,iphoneos-arm64
 com.nan.fh,fh,0.2.6,iphoneos-arm
 com.nan.ft,ft,0.5.1,iphoneos-arm64
-com.nan.givemedeb,Give me deb,0.2.1,iphoneos-arm64e
+com.nan.givemedeb,Give me deb,0.3.0,iphoneos-arm64e
 com.nan.givemedebx,Give me deb X,0.1.0,iphoneos-arm64e
 com.nan.hsaol,Hardware Switch As Orientation Lock,0.2.0,iphoneos-arm
 com.nan.issupervised,Is Supervised,0.1.0,iphoneos-arm
