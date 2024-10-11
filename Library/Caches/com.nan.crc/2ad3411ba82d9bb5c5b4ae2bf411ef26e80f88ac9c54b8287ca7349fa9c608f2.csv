@@ -51,6 +51,7 @@ com.cydiageek.killinappsscreenshot,KillinAppsScreenshot,1.0.9,iphoneos-arm64
 com.cydiageek.lpmonscreenshot,LPMonScreenshot,1.0.0,iphoneos-arm64
 com.cydiageek.marina,Marina,1.2.4,iphoneos-arm64
 com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.4-1,iphoneos-arm64
+com.cydiageek.myautolock,MyAutoLock,1.0.0,iphoneos-arm64
 com.cydiageek.myccstatuslabel,MyCCStatusLabel,1.0.1-1,iphoneos-arm64
 com.cydiageek.myscrollingbars,MyScrollingBars,1.0.1,iphoneos-arm64
 com.cydiageek.myswitches,MySwitches,1.0.7,iphoneos-arm64
@@ -87,7 +88,7 @@ com.erik.applockerplus,App加锁助手(App Lock),7.1.0,iphoneos-arm64
 com.erik.inapplock,In-App Locker(App内部锁),1.1.2,iphoneos-arm64
 com.iadam1n.statusfolder,StatusFolder,1.0.2,iphoneos-arm64
 com.icraze.easynotifications,Easy Notifications,3.0,iphoneos-arm64
-com.iface360.pandabeautyloader,Panda Beauty Assistant(熊猫美颜助手),1.1.7,iphoneos-arm64
+com.iface360.pandabeautyloader,Panda Beauty Assistant(熊猫美颜助手),1.2.0,iphoneos-arm64
 com.kingpuffdaddi.control-center.ccvibration,CCVibration,1.0.4,iphoneos-arm64
 com.kingpuffdaddi.control-center.ccvpn,CCVPN,1.0.6,iphoneos-arm64
 com.kingpuffdaddi.hotspotqr,HotspotQR,1.1.3,iphoneos-arm64
