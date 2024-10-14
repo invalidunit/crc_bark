@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>简易 crc 配置文件生成</title>
+        <style>
+            .collapsible {
+                background-color: #eee;
+                color: #444;
+                cursor: pointer;
+                padding: 18px;
+                width: 100%;
+                border: none;
+                text-align: left;
+                outline: none;
+                font-size: 15px;
+            }
+            .content {
+                padding: 0 18px;
+                overflow: hidden;
+                background-color: #f1f1f1;
+            }
+            #sources-list {
+                margin-top: 20px;
+            }
+            .source-item {
+                margin-bottom: 10px;
+            }
+            .source-item input[type="url"] {
+                margin-right: 10px;
+            }
+            #jsonOutput {
+                margin-top: 20px;
+                border: 1px solid #ccc;
+                padding: 10px;
+                min-height: 300px;
+                overflow: auto;
+                background-color: #f4f4f4;
+            }
+            .bark-settings-title {
+                font-size: 20px;
+                margin: 20px 0 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>全局配置</h2>
+        <form id="configForm">
+            <div>
+                <label for="enable">启用</label>
+                <select id="enable" name="enable">
+                    <option value="1" selected>启用</option>
+                    <option value="0">禁用</option>
+                </select>
+            </div>
+            <div>
+                <label for="use_name">解析包名称</label>
+                <select id="use_name" name="use_name">
+                    <option value="1">启用</option>
+                    <option value="0" selected>禁用</option>
+                </select>
+            </div>
+            <div>
+                <label for="filter_architecture">过滤架构</label>
+                <select id="filter_architecture" name="filter_architecture">
+                    <option value="all" selected>all</option>
+                    <option value="iphoneos-arm">iphoneos-arm</option>
+                    <option value="iphoneos-arm64">iphoneos-arm64</option>
+                    <option value="iphoneos-arm64e">iphoneos-arm64e</option>
+                </select>
+            </div>
+            <div class="bark-settings-title">Bark 配置</div>
+            <div class="content">
+                <div>
+                    <label for="barkis_archive">保存到历史消息</label>
+                    <select id="barkis_archive" name="bark.is_archive">
+                        <option value="1">启用</option>
+                        <option value="0" selected>禁用</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="barklevel">通知中断级别</label>
+                    <select id="barklevel" name="bark.level">
+                        <option value="active" selected>active</option>
+                        <option value="timeSensitive">timeSensitive</option>
+                        <option value="passive">passive</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="barksound">通知铃声</label>
+                    <input type="text" id="barksound" name="bark.sound" value="healthnotification">
+                </div>
+                <div>
+                    <label for="barkgroup">通知分组</label>
+                    <input type="text" id="barkgroup" name="bark.group" value="com.nan.crc">
+                </div>
+                <div>
+                    <label for="barkTitle">通知标题</label>
+                    <input type="text" id="barkTitle" name="bark.title" value="来自 crc - repo_name 已变更">
+                </div>
+                <div>
+                    <label for="barkBodyadd">通知内容 - 添加</label>
+                    <input type="text" id="barkBodyadd" name="bark.body.add" value="下列软件包已新增：">
+                </div>
+                <div>
+                    <label for="barkBodydel">通知内容 - 删除</label>
+                    <input type="text" id="barkBodydel" name="bark.body.del" value="下列软件包已移除：">
+                </div>
+                <div>
+                    <label for="barkBodyup">通知内容 - 更新</label>
+                    <input type="text" id="barkBodyup" name="bark.body.up" value="下列软件包已更新：">
+                </div>
+                <div>
+                    <label for="barkserver">服务器</label>
+                    <input type="text" id="barkserver" name="bark.server" value="">
+                </div>
+            </div>
+        </form>
+        
+        <h3>软件源</h3>
+        <div class="source-item">
+            <input type="url" id="newSourceUrl" placeholder="https://example.com/" />
+            <button onclick="addSource()">添加</button>
+        </div>
+        <div id="sources-list"></div>
+
+        <h3>JSON 输出：</h3>
+        <pre id="jsonOutput"></pre>
+
+        <script>
+            // 初始化配置对象
+            let config = {
+                "bark": {
+                    "is_archive": 0,
+                    "Hello_World": 0,
+                    "level": "active",
+                    "title": "来自 crc - repo_name 已变更",
+                    "group": "com.nan.crc",
+                    "body": {
+                        "add": "下列软件包已新增：",
+                        "del": "下列软件包已移除：",
+                        "up": "下列软件包已更新："
+                    },
+                    "sound": "healthnotification"
+                },
+                "enable": 1,
+                "use_name": 0,
+                "filter_architecture": "all",
+                "source": []
+            };
+
+            // 页面加载完成后，初始化表单和源列表
+            window.onload = function() {
+                document.getElementById('configForm').addEventListener('change', function(e) {
+                    const path = e.target.name.split('.');
+                    let current = config;
+                    path.forEach((key, index) => {
+                        if (index === path.length - 1) {
+                            // Convert to number if the input type is number
+                            current[key] = isNaN(e.target.value) ? e.target.value : Number(e.target.value);
+                        } else {
+                            current = current[key];
+                        }
+                    });
+                    updateJSONOutput();
+                });
+                updateJSONOutput();
+            };
+
+            function updateConfig(inputElement) {
+                const name = inputElement.name;
+                const value = inputElement.tagName === 'SELECT' ? inputElement.value : inputElement.value === 'on' ? 1 : 0;
+                config[name] = value;
+                updateJSONOutput();
+            }
+
+            function addSource() {
+                const newSourceUrl = document.getElementById('newSourceUrl').value;
+                if (newSourceUrl) {
+                    config.source.push({
+                        "enable": 1,
+                        "url": newSourceUrl
+                    });
+                    renderSourcesList();
+                    updateJSONOutput();
+                    document.getElementById('newSourceUrl').value = ''; // 清空输入框
+                }
+            }
+
+            function renderSourcesList() {
+                const sourcesList = document.getElementById('sources-list');
+                sourcesList.innerHTML = ''; // 清空现有列表
+
+                config.source.forEach((source, index) => {
+                    const sourceItem = document.createElement('div');
+                    sourceItem.className = 'source-item';
+                    sourceItem.innerHTML = `
+                        <input type="url" value="${source.url}" onchange="updateSource(${index}, this.value)" />
+                        <button onclick="removeSource(${index})">移除</button>
+                    `;
+                    sourcesList.appendChild(sourceItem);
+                });
+            }
+
+            function updateSource(index, newUrl) {
+                config.source[index].url = newUrl;
+                updateJSONOutput();
+            }
+
+            function removeSource(index) {
+                config.source.splice(index, 1);
+                renderSourcesList();
+                updateJSONOutput();
+            }
+
+            function updateJSONOutput() {
+                const jsonOutput = document.getElementById('jsonOutput');
+                jsonOutput.textContent = JSON.stringify(config, null, 2);
+            }
+        </script>
+    </body>
+</html>
