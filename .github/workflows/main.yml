@@ -35,7 +35,7 @@ jobs:
           
       - name: download crc
         run: |
-          sudo curl -L -o '/usr/bin/crc' 'https://raw.githubusercontent.com/invalidunit/check_change/main/crc'
+          sudo curl -L -o '/usr/bin/crc' 'https://raw.githubusercontent.com/invalidunit/check_change/main/bark/crc'
           sudo chmod -R 0755 '/usr/bin/crc'
 
       - name: crc
