@@ -60,7 +60,7 @@
 
 配置文件位于储存库的
 
-	Library/Preferences/com.nan.cac.js
+	Library/Preferences/com.nan.crc.js
 
 关于如何配置可以模仿我正在使用的配置文件自己改，实在看不懂这里也提供了一个简易的生成器
 
