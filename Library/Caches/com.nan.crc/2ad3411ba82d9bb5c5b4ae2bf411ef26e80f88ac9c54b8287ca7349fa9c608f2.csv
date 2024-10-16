@@ -36,7 +36,7 @@ com.cydiageek.customlpm,CustomLPM,1.0.3,iphoneos-arm64
 com.cydiageek.denyphotoalbums,DenyPhotoAlbums,1.2.0,iphoneos-arm64
 com.cydiageek.discreetvoicememos,discreetVoiceMemos,1.1.2,iphoneos-arm64
 com.cydiageek.donetolock,DoneToLock,1.0.0,iphoneos-arm64
-com.cydiageek.doubletaptolock,DoubleTapToLock,1.0.1,iphoneos-arm64
+com.cydiageek.doubletaptolock,DoubleTapToLock,1.0.2,iphoneos-arm64
 com.cydiageek.ermete,Ermete,1.0.5,iphoneos-arm64
 com.cydiageek.fastdeletekey,FastDeleteKey,1.0.4,iphoneos-arm64
 com.cydiageek.flashy,Flashy,1.0.2,iphoneos-arm64
@@ -48,6 +48,7 @@ com.cydiageek.huebatterybar,hueBatterybar,1.0.2-1,iphoneos-arm64
 com.cydiageek.igimagesave,IGImageSave,1.0.1,iphoneos-arm64
 com.cydiageek.ipdisabledtextaddress,IPDisabledTextAddress,1.0.0,iphoneos-arm64
 com.cydiageek.killinappsscreenshot,KillinAppsScreenshot,1.0.9,iphoneos-arm64
+com.cydiageek.lazycursor,LazyCursor,1.0.3,iphoneos-arm64
 com.cydiageek.lpmonscreenshot,LPMonScreenshot,1.0.0,iphoneos-arm64
 com.cydiageek.marina,Marina,1.2.4,iphoneos-arm64
 com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.4-1,iphoneos-arm64
@@ -120,7 +121,7 @@ com.zqbb.limitcharging,LimitCharging (限制充电),1.0,iphoneos-arm64
 dev.extbh.tbb.jodelemproved,Jodel EMPROVED,1.1.7,iphoneos-arm64
 eg.anubistweaks.phoneenhancer15,Phone Enhancer 15,1.7.0,iphoneos-arm64
 fun.asmo.analyticswechat,微信分析 (AnalyticsWeChat),1.0.0,iphoneos-arm64
-ios.cajb.videodownloader,网页视频下载器Web Video Downloader-缓存网站视频,2.7.3,iphoneos-arm64
+ios.cajb.videodownloader,网页视频下载器Web Video Downloader-缓存网站视频,2.7.5,iphoneos-arm64
 jb.acc.gpsmanager,GPS Manager(GPS定位管家),2.2.7,iphoneos-arm64
 jp.r-plus.doublecut,DoubleCut,0.8,iphoneos-arm64
 jp.r-plus.slidecut,SlideCut,0.9,iphoneos-arm64

@@ -1322,7 +1322,7 @@ com.cydiageek.dimlockview,DimLockView,0.0.1-3,iphoneos-arm
 com.cydiageek.disabledtextpercent,DisabledTextPercent,1.0.0,iphoneos-arm
 com.cydiageek.discreetvoicememos,discreetVoiceMemos,1.1.2,iphoneos-arm
 com.cydiageek.donetolock,DoneToLock,1.0.0,iphoneos-arm
-com.cydiageek.doubletaptolock,DoubleTapToLock,1.0.1,iphoneos-arm
+com.cydiageek.doubletaptolock,DoubleTapToLock,1.0.2,iphoneos-arm
 com.cydiageek.ermete,Ermete,1.0.5,iphoneos-arm
 com.cydiageek.essentialweather,essentialWeather,1.0.0,iphoneos-arm
 com.cydiageek.exittagconfirm,ExitTagConfirm,1.0.0,iphoneos-arm
@@ -1363,7 +1363,7 @@ com.cydiageek.ipdisabledtextaddress,IPDisabledTextAddress,1.0.0,iphoneos-arm
 com.cydiageek.ipeditbuttonaddress,IPEditButtonAddress,1.0.0,iphoneos-arm
 com.cydiageek.killinappsscreenshot,KillinAppsScreenshot,1.0.9,iphoneos-arm
 com.cydiageek.krater,Krater,1.0.0,iphoneos-arm
-com.cydiageek.lazycursor,LazyCursor,1.0.2,iphoneos-arm
+com.cydiageek.lazycursor,LazyCursor,1.0.3,iphoneos-arm
 com.cydiageek.lpmonscreenshot,LPMonScreenshot,1.0.0,iphoneos-arm
 com.cydiageek.lshiddentools10,LSHiddenTools10,1.1.2,iphoneos-arm
 com.cydiageek.marina,Marina,1.2.4,iphoneos-arm
@@ -3393,7 +3393,7 @@ com.joshposh2012.numericwifi,Numeric Wifi Enabler,1.1,iphoneos-arm
 com.joshualeetucker.brightnessbar,BrightnessBar,1.0.0-1,iphoneos-arm
 com.joshuaseltzer.advancedsettings8,AdvancedSettings8,1.1.0,iphoneos-arm
 com.joshuaseltzer.carplayhidelabels,CarPlayHideLabels,1.0.0,iphoneos-arm
-com.joshuaseltzer.flixenhancer,FlixRatings for Netflix (Legacy),3.2.5,iphoneos-arm
+com.joshuaseltzer.flixenhancer,FlixRatings for Netflix (Legacy),3.2.6,iphoneos-arm
 com.joshuaseltzer.flixroulette,FlixRoulette for Netflix,1.0.2,iphoneos-arm
 com.joshuaseltzer.netflixsubtitlefix,NetflixSubtitleFix,1.0.1,iphoneos-arm
 com.jpifher.apacheswitchbossprefs,Apache BossPrefs Switch,1.0,iphoneos-arm
@@ -6562,7 +6562,7 @@ io.ijapija00.tapticpasscodebuttons,TapticPasscodeButtons,1.0.1,iphoneos-arm
 io.lookback.lookback-anywhere,Lookback,1.1.2-4,iphoneos-arm
 io.mattr.sleeksheets,SleekSheets,3.0.1,iphoneos-arm
 io.p0r.fmct,FakeMyConnectionType,1.2.9-1,iphoneos-arm
-ios.cajb.videodownloader,网页视频下载器Web Video Downloader-缓存网站视频,2.7.3,iphoneos-arm
+ios.cajb.videodownloader,网页视频下载器Web Video Downloader-缓存网站视频,2.7.5,iphoneos-arm
 io.xueba.wechatregiondiy,WeChatRegionDIY 微信地区自定义,1.0-1,iphoneos-arm
 ipodnerd5,iPodNerd5,2.0,iphoneos-arm
 iprotect,iProtect,10.0-1,iphoneos-arm
