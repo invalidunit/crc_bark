@@ -34,6 +34,7 @@ com.cydiageek.copyrecentsmaps,CopyRecentsMaps,1.0.0,iphoneos-arm64
 com.cydiageek.coysim,CoySIM,1.6.5,iphoneos-arm64
 com.cydiageek.cthulhu,Cthulhu,1.1.0,iphoneos-arm64
 com.cydiageek.customlpm,CustomLPM,1.0.3,iphoneos-arm64
+com.cydiageek.dailyfullscreenconfirm,DailyFullscreenConfirm,1.0.0,iphoneos-arm64
 com.cydiageek.denyphotoalbums,DenyPhotoAlbums,1.2.0,iphoneos-arm64
 com.cydiageek.discreetvoicememos,discreetVoiceMemos,1.1.2,iphoneos-arm64
 com.cydiageek.donetolock,DoneToLock,1.0.0,iphoneos-arm64
@@ -84,7 +85,7 @@ com.cydiageek.telegramstoryconfirm,TelegramStoryConfirm,1.0.0,iphoneos-arm64
 com.cydiageek.tinticonlabel,TintIconLabel,1.0.5,iphoneos-arm64
 com.cydiageek.titlefoldersize,TitleFolderSize,1.1.8,iphoneos-arm64
 com.cydiageek.walletbrighter,WalletBrighter,1.0.0,iphoneos-arm64
-com.den.igformat,IGFormat,0.0.1-135,iphoneos-arm64
+com.den.igformat,IGFormat,0.0.1-167,iphoneos-arm64
 com.den.respr1ng,Respr1ng,0.0.1-3,iphoneos-arm64
 com.den.shortcutx,ShortCutx,0.0.1-1,iphoneos-arm64
 com.dvntm.showmytouches,ShowMyTouches,1.1.2,iphoneos-arm
