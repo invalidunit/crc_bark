@@ -42,10 +42,6 @@
     },
     {
       "enable": 1,
-      "url": "https://repo.swing1993.cn/"
-    },
-    {
-      "enable": 1,
       "url": "https://jailrepo.initnil.com/"
     },
     {
