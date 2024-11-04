@@ -17,11 +17,11 @@ com.nan.ccul,CC Unlock,0.1.0,iphoneos-arm
 com.nan.chang-taurine-permanent,chang taurine-permanent,0.1.3-2,iphoneos-arm
 com.nan.choicy.zh-hans,zh-Hans for Choicy,0.1.1,iphoneos-arm64e
 com.nan.crane.zh-hans,zh-Hans for Crane,0.1.0-4,iphoneos-arm64e
-com.nan.crc,Check repo change,0.2.9,iphoneos-arm64e
+com.nan.crc,Check repo change,0.3.0,iphoneos-arm64e
 com.nan.cy+cpu.arm64,cy+cpu.arm64,0.1.0,iphoneos-arm
 com.nan.cydown.zh-hans,zh-Hans for CyDown,0.1.0,iphoneos-arm
 com.nan.darkshot.zh-hans,zh-Hans for DarkShot,0.1.0,iphoneos-arm
-com.nan.deb,deb,0.2.9,iphoneos-arm64e
+com.nan.deb,deb,0.3.0,iphoneos-arm64e
 com.nan.deb-filza-script-b,FilzaScript deb -b,0.1.0,iphoneos-arm64e
 com.nan.deb-filza-script-b-gzip,FilzaScript deb -b gzip,0.1.0,iphoneos-arm64e
 com.nan.deb-filza-script-b-xz,FilzaScript deb -b xz,0.1.0,iphoneos-arm64e
