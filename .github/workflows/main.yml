@@ -7,7 +7,7 @@ on:
     - cron: '40 * * * *'
 
 jobs:
-  cac:
+  crc:
     uses: invalidunit/check_change/.github/workflows/crc_bark.yml@main
     secrets:
       _key: ${{ secrets._key }}
