@@ -56,7 +56,7 @@ com.nan.notifica,Notifica,0.4.1,iphoneos-arm
 com.nan.pencilchargingindicator,PencilChargingIndicator,1.2~b7,iphoneos-arm
 com.nan.perfectnetworkspeedinfo,PerfectNetworkSpeedInfo,3.0,iphoneos-arm
 com.nan.plutil,plutil,0.2.1,iphoneos-arm
-com.nan.pulloverpro,PullOver Pro,2.1.1,iphoneos-arm
+com.nan.pulloverpro,PullOver Pro,2.1.4-1,iphoneos-arm64
 com.nan.qqanitirecallhook,QQanitiRecallHook,1.2,iphoneos-arm
 com.nan.qqpurification,QQ Purification,1.4-1,iphoneos-arm
 com.nan.qrrp,QQForceRecall,0.2.0,iphoneos-arm
@@ -69,6 +69,7 @@ com.nan.snappy,Snappy,1.3.0,iphoneos-arm
 com.nan.snappy-modify,Snappy (modify),1.3.1,iphoneos-arm
 com.nan.snaputil,snaputil,10.15.1,iphoneos-arm
 com.nan.spenabler,SupervisedEnabler,1.0.1,iphoneos-arm
+com.nan.storeswitchaccounts,StoreSwitchAccounts-Rootless,1.1-2,iphoneos-arm64
 com.nan.tetherme8,TetherMe,1.2.3~arm64e-1,iphoneos-arm
 com.nan.twig,Twig,1.0.1,iphoneos-arm
 com.nan.uitrasound,Ultrasound,1.2.13,iphoneos-arm64
