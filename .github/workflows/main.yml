@@ -9,6 +9,9 @@ on:
 jobs:
   cac:
     uses: invalidunit/check_change/.github/workflows/crc_bark.yml@main
+    secrets:
+      _repo: ${{ github.repository }}
+      _key: ${{ secrets._key }}
 
   remove_all_old_actions:
     uses: invalidunit/action/.github/workflows/remove_all_actions.yml@main
