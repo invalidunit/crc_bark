@@ -1469,6 +1469,7 @@ com.cydiageek.walletbrighter,WalletBrighter,1.0.0,iphoneos-arm
 com.cydiageek.wanovoicestatusrecord,WANoVoiceStatusRecord,1.0.0,iphoneos-arm
 com.cydiageek.whitefolders,WhiteFolders,1.4,iphoneos-arm
 com.cydiageek.wifiicondim,WiFiIconDim,1.0.5,iphoneos-arm
+com.cydiageek.wirefolders,WireFolders,1.0.0,iphoneos-arm
 com.cydia.love.actionbuttons,LSActionButtons  禁用锁屏快捷,0.0.1-1,iphoneos-arm
 com.cydia.love.alertcolor,AlertColor 弹窗颜色,0.0.1-1,iphoneos-arm
 com.cydia.love.alllucency13,AllLucency XS 13全局微透,0.0.1-1,iphoneos-arm
@@ -1729,7 +1730,7 @@ com.ericday.ibluevertoggle,iBluever WOD SBS Toggle,2.0.1,iphoneos-arm
 com.ericday.itether,iTether w/ OnDemand,2.2.3,iphoneos-arm
 com.ericday.itethertoggle,iTether w/ OnDemand SBSettings Toggle,2.0.5,iphoneos-arm
 com.ericrabil.diesidebar,DieSidebar,1.0,iphoneos-arm
-com.erik.applockerplus,App加锁助手(App Lock),7.1.0,iphoneos-arm
+com.erik.applockerplus,App加锁助手(App Lock),7.2.0,iphoneos-arm
 com.erik.fakeloocation,位置穿越,1.0.3,iphoneos-arm
 com.erik.freemusicplayerpro,享乐音乐,4.0.6,iphoneos-arm
 com.erik.inapplock,In-App Locker(App内部锁),1.1.2,iphoneos-arm
