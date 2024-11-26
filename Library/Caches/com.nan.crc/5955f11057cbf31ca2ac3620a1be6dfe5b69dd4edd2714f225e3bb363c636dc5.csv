@@ -101,7 +101,7 @@ com.foxfort.libfoxfortutils,libfoxfortutils,1.4.8,iphoneos-arm64
 com.foxfort.lumi,Lumi,2.2.0,iphoneos-arm
 com.foxfort.netfence,NetFence,1.5.8,iphoneos-arm64
 com.foxfort.noautostraighten,NoAutoStraighten,1.0.0,iphoneos-arm
-com.foxfort.picarize,Picarize,1.0.8,iphoneos-arm64
+com.foxfort.picarize,Picarize,1.0.9,iphoneos-arm64
 com.foxfort.portraitxi,PortraitXI,4.3.3,iphoneos-arm64
 com.foxfort.translomatic,Translomatic,2.18.9,iphoneos-arm64
 com.foxfort.vidnerix,Vidnerix,1.0.2,iphoneos-arm64
@@ -370,7 +370,7 @@ com.yan.ring,Ring,1.0,iphoneos-arm64
 com.yan.stella,Stella,1.0.5,iphoneos-arm64
 com.yexc.messagesxi,MessagesXI,2.3,iphoneos-arm64
 com.zachary7829.pastcuts,Pastcuts,1.3.0,iphoneos-arm
-com.zqbb.dynamic120hz,Dynamic120hz,2.2.0,iphoneos-arm64
+com.zqbb.dynamic120hz,Dynamic120hz,2.3.0,iphoneos-arm64
 com.zqbb.hello.keyboard.ai,HelloKeyboardAI,3.3.0-5,iphoneos-arm64
 co.shoyu.miso,Miso,1.0,iphoneos-arm64
 cum.0xilis.badger,Badger,1.2,iphoneos-arm
