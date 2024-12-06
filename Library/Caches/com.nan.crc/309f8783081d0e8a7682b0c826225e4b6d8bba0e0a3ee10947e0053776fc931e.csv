@@ -1407,6 +1407,7 @@ com.cydiageek.nowachannelsviewcell,NoWAChannelsViewCell,1.0.2,iphoneos-arm
 com.cydiageek.nowakewhencharge,NoWakeWhenCharge,1.0.1,iphoneos-arm
 com.cydiageek.nowalinkpreviews,NoWALinkPreviews,1.0.0,iphoneos-arm
 com.cydiageek.nowareactions,NoWAReactions,1.0.0,iphoneos-arm
+com.cydiageek.nowashuttersound,NoWAShutterSound,1.0.0,iphoneos-arm
 com.cydiageek.noytmusicplaylistpanel,NoYTMusicPlaylistPanel,1.0.1,iphoneos-arm
 com.cydiageek.openalphabeticlistconfirm,OpenAlphabeticListConfirm,1.0.1,iphoneos-arm
 com.cydiageek.passbuttonstyle,PassButtonStyle,1.0.5,iphoneos-arm
@@ -1662,8 +1663,6 @@ com.eason.autogate,AutoGate,1.0-21,iphoneos-arm
 com.eason.carplay,NGXPlay,1.1-1,iphoneos-arm
 com.eason.carplay.ios11,NGXPlay11,2.1-3,iphoneos-arm
 com.eason.easervice,easervice,1.0-11,iphoneos-arm
-com.eason.easimulatetower,EASimulateTower,2.12-38,iphoneos-arm
-com.eason.easimulatetowerlight,EASimulateTowerLight,2.2-13,iphoneos-arm
 com.easycallback.easycallback,EasyCallBack 3G & WiFi Calls,1.03,iphoneos-arm
 com.efiko.qtweeter,qTweeter,3.66-1,iphoneos-arm
 com.efiko.rtshuffler,Ringtone Shuffler,1.13,iphoneos-arm
