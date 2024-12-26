@@ -51,6 +51,7 @@ com.cydiageek.igimagesave,IGImageSave,1.0.1,iphoneos-arm64
 com.cydiageek.ipdisabledtextaddress,IPDisabledTextAddress,1.0.0,iphoneos-arm64
 com.cydiageek.killinappsscreenshot,KillinAppsScreenshot,1.0.9,iphoneos-arm64
 com.cydiageek.lazycursor,LazyCursor,1.0.3,iphoneos-arm64
+com.cydiageek.lpmnochargingsound,LPMNoChargingSound,1.0.0,iphoneos-arm64
 com.cydiageek.lpmonscreenshot,LPMonScreenshot,1.0.0,iphoneos-arm64
 com.cydiageek.marina,Marina,1.2.4,iphoneos-arm64
 com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.4-1,iphoneos-arm64
@@ -145,7 +146,7 @@ me.lochook.app,定个位-专业的位置修改软件,5.2.0,iphoneos-arm64
 net.ajbbo.acgps,ACGPS,1.0,iphoneos-arm64
 net.joebruce.fakepicture,FakePicture(拍照替换)-taking pseudo selfie,1.8.9,iphoneos-arm64
 net.joebruce.fakeqrcode,FakeQRCode(二维码替换)-scan pseudo barcode,1.2.9,iphoneos-arm64
-net.joebruce.gpsmaster,GPS Master(GPS定位大师)-Fake NavigationLocation Spoofer,2.2.4,iphoneos-arm64
+net.joebruce.gpsmaster,GPS Master(GPS定位大师)-Fake NavigationLocation Spoofer,2.2.5,iphoneos-arm64
 net.joebruce.respringhelper,Respring Helper(重启桌面)-restart SpringBoard,1.5.4,iphoneos-arm64
 net.joebruce.uninstallguard,UninstallGuard(卸载守护者) - forbid removing Apps,1.5.6,iphoneos-arm64
 net.limneos.livecalltranslator,Live Call Translator,0.1-41,iphoneos-arm64
