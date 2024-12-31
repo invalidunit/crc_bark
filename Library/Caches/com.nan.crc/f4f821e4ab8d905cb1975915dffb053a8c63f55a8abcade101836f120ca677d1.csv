@@ -1,10 +1,12 @@
 Package,Name,Version,Architecture
 com.3dmenu.cheatpatch,3DMenuGameTool,1.0.0,iphoneos-arm64
 com.xx.baiduhook,百度地图优化,1.0.2,iphoneos-arm64
+com.xx.bbbsblhhook,宝宝巴士·贝乐虎Svip,1.0.0,iphoneos-arm64
 com.xx.clickerheroescheat,ClickerHeroesCheat,1.0.0,iphoneos-arm64
-com.xx.dazzpro,DazzPro,1.0.0,iphoneos-arm64
+com.xx.dazzpro,DazzPro,1.0.1,iphoneos-arm64
 com.xx.dyhook,抖音图层,2.0.8+5,iphoneos-arm64
 com.xx.ecnyhook,数字人民币屏蔽越狱,1.0.2,iphoneos-arm64
+com.xx.fightenegery,多彩壁纸Pro,1.0.0,iphoneos-arm64
 com.xx.gaodehook,高德地图优化,1.0.4,iphoneos-arm64
 com.xx.growvip,Grow会员,1.0.0,iphoneos-arm64
 com.xx.iboxhook,iBoxNoAds,1.0.9,iphoneos-arm64
@@ -13,17 +15,17 @@ com.xx.igamegodnoads,iGameGodNoAds,1.0.0,iphoneos-arm64
 com.xx.intolivehook,intolivePro,1.0.0,iphoneos-arm64
 com.xx.jrtthook,今日头条Hook,1.0.4,iphoneos-arm64
 com.xx.kshook,快手Hook,1.0.6-3,iphoneos-arm64
-com.xx.liitpro,LiitPro,1.0.0,iphoneos-arm64
+com.xx.liitpro,LiitPro,1.0.1,iphoneos-arm64
 com.xx.ppxhook,皮皮虾优化,1.0.7,iphoneos-arm64
 com.xx.pyehook,配音鹅会员,1.0.0,iphoneos-arm64
 com.xx.qmxshook,七猫小说Hook,1.0.3,iphoneos-arm64
-com.xx.qqhook,QQ·TIM 新版防撤回,1.1.2,iphoneos-arm64
+com.xx.qqhook,QQ·TIM 新版防撤回,1.1.3-1,iphoneos-arm64
 com.xx.qsyyhook,汽水音乐NoAds,1.0.2,iphoneos-arm64
 com.xx.safarixhook,SafariXHook,1.0.0,iphoneos-arm64
 com.xx.simcitycheat,SimCityCheat,1.0.0,iphoneos-arm64
 com.xx.soulatch,SOULPatch,1.0.0,iphoneos-arm64
 com.xx.spidercrack,SpiderProxyCrack,1.0.3,iphoneos-arm64
-com.xx.totofinancevip,图图记账会员,1.0.0,iphoneos-arm64
+com.xx.totofinancevip,图图记账会员,1.0.1,iphoneos-arm64
 com.xx.wsyhnojb,网商银行NoJbCheck,1.0.0,iphoneos-arm64
 com.xx.xhshook,小红薯,1.1.2,iphoneos-arm64
-com.xx.ysbrowserhook,亚瑟浏览器Pro,1.0.1,iphoneos-arm64
+com.xx.ysbrowserhook,亚瑟浏览器Pro,1.0.2,iphoneos-arm64
