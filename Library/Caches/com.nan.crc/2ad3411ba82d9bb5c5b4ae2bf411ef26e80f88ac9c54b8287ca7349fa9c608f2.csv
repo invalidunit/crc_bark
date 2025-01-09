@@ -131,7 +131,7 @@ com.zqbb.fix120hz,Hello 120Hz,2.3.0-3,iphoneos-arm64
 com.zqbb.limitcharging,LimitCharging (限制充电),1.0,iphoneos-arm64
 dev.extbh.tbb.jodelemproved,Jodel EMPROVED,1.1.7,iphoneos-arm64
 eg.anubistweaks.phoneenhancer15,Phone Enhancer 15,1.7.0,iphoneos-arm64
-fun.asmo.analyticswechat,微信分析 (AnalyticsWeChat),1.1.0,iphoneos-arm64
+fun.asmo.analyticswechat,微信分析 (AnalyticsWeChat),1.1.1,iphoneos-arm64
 ios.cajb.videodownloader,网页视频下载器Web Video Downloader-缓存网站视频,2.7.5,iphoneos-arm64
 jb.acc.gpsmanager,GPS Manager(GPS定位管家),2.2.9,iphoneos-arm64
 jp.r-plus.doublecut,DoubleCut,0.8,iphoneos-arm64
@@ -142,7 +142,7 @@ me.health.app,改个步数-专业的步数修改软件,3.1.0,iphoneos-arm64
 me.liuming.apphider,App Hider(应用隐藏助手)-Make Apps disappeared from SpringBoard,2.2.6,iphoneos-arm64
 me.liuming.locationexpert,虚拟定位专家(GPS Faker Expert)-模拟导航，扫街,3.3.5,iphoneos-arm64
 me.liuming.locationhelper,虚拟定位助手 GPS Faker,5.7.3,iphoneos-arm64
-me.lochook.app,定个位-专业的位置修改软件,5.2.0,iphoneos-arm64
+me.lochook.app,定个位-专业的位置修改软件,5.3.0,iphoneos-arm64
 net.ajbbo.acgps,ACGPS,1.0,iphoneos-arm64
 net.joebruce.fakepicture,FakePicture(拍照替换)-taking pseudo selfie,1.8.9,iphoneos-arm64
 net.joebruce.fakeqrcode,FakeQRCode(二维码替换)-scan pseudo barcode,1.2.9,iphoneos-arm64
