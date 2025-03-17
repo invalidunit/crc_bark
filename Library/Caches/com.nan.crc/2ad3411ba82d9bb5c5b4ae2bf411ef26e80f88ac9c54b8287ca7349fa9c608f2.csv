@@ -12,7 +12,7 @@ cn.tinyapps.rst,361一键新机(MultiAccount Master)-全系统(iOS 7/8/9/10/11/1
 cn.tinyapps.wxtones,微信炫铃-一键设定个性化微信提示音(Customized Tones for WeChat),2.2,iphoneos-arm64
 cn.tinyapps.xgpspro,Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish,4.6.7,iphoneos-arm64
 cn.zqbb.disupdateapp,BlockAppUpdate 屏蔽App Store更新,2.0.0-3,iphoneos-arm64
-cn.zqbb.holdcpu,Hello CPU,2.3.4-1,iphoneos-arm64
+cn.zqbb.holdcpu,Hello CPU,2.3.4-5,iphoneos-arm64
 cn.zqbb.orzfolder,Hello Folder,1.5.0-1,iphoneos-arm64
 com.0xkuj.blockwaupdates,Block WA Updates,1.1,iphoneos-arm64
 com.0xkuj.deleteallalarms,GlobAlarmSettings,2.0.2,iphoneos-arm64
@@ -152,7 +152,7 @@ net.ajbbo.acgps,ACGPS,1.0,iphoneos-arm64
 net.joebruce.fakepicture,FakePicture(拍照替换)-taking pseudo selfie,1.9.0,iphoneos-arm64
 net.joebruce.fakeqrcode,FakeQRCode(二维码替换)-scan pseudo barcode,1.2.9,iphoneos-arm64
 net.joebruce.gpsmaster,GPS Master(GPS定位大师)-Fake NavigationLocation Spoofer,2.2.5,iphoneos-arm64
-net.joebruce.respringhelper,Respring Helper(重启桌面)-restart SpringBoard,1.5.4,iphoneos-arm64
+net.joebruce.respringhelper,Respring Helper(重启桌面)-restart SpringBoard,1.5.5,iphoneos-arm64
 net.joebruce.uninstallguard,UninstallGuard(卸载守护者) - forbid removing Apps,1.5.6,iphoneos-arm64
 net.limneos.livecalltranslator,Live Call Translator,0.1-41,iphoneos-arm64
 netskao.wechatpurification,微信净化,4.2-7,iphoneos-arm64
