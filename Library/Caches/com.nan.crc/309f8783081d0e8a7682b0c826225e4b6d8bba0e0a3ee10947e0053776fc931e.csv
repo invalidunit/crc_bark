@@ -1349,6 +1349,7 @@ com.cydiageek.hapticsleep,HapticSleep,1.0.2,iphoneos-arm
 com.cydiageek.hapticswitcher,HapticSwitcher,1.0.0,iphoneos-arm
 com.cydiageek.haptictapondraft,HapticTapOnDraft,1.0.0,iphoneos-arm
 com.cydiageek.hidedonebuttonx,HideDoneButtonX,1.0.2,iphoneos-arm
+com.cydiageek.hidesearchbutton,HideSearchButton,1.0.0,iphoneos-arm
 com.cydiageek.huebatterybar,hueBatterybar,1.0.4,iphoneos-arm
 com.cydiageek.huefolderbg,hueFolderBG,1.0.9,iphoneos-arm
 com.cydiageek.huekbemojiview,hueKBEmojiView,1.0.1,iphoneos-arm
@@ -9783,7 +9784,7 @@ tmobile-us-carrier-internet2,T-Mobile US Carrier (internet2 APN),1.0,iphoneos-ar
 tomkeywang.killkbcache,KillKBCache,0.1,iphoneos-arm
 tonyli.lunarcalendar.widget,Chinese Calendar for Notification Center,1.1.2-2,iphoneos-arm
 top.cydiabc.bottombarhigh,BottomBarhigh-APP底部抬高,1.1,iphoneos-arm
-topme.ios.fakegps,定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行,3.9.12,iphoneos-arm
+topme.ios.fakegps,定位修改大师(Fake GPS)-模拟地理位置，虚拟地图天下任我行,3.9.13,iphoneos-arm
 touch-lighttpd-php-mysql,touch-lighttpd-php-mysql,2.10-11,iphoneos-arm
 tougbao.qqanitirecallhook,QQanitiRecallHook,1.2,iphoneos-arm
 trafficmap.probki20.com,Russian Traffic Jams,2.1.5,iphoneos-arm
