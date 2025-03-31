@@ -1411,7 +1411,7 @@ com.cydiageek.notouchvolumehud,NoTouchVolumeHUD,1.0.0,iphoneos-arm
 com.cydiageek.nowachannelsviewcell,NoWAChannelsViewCell,1.0.4,iphoneos-arm
 com.cydiageek.nowakewhencharge,NoWakeWhenCharge,1.0.2,iphoneos-arm
 com.cydiageek.nowalinkpreviews,NoWALinkPreviews,1.0.0,iphoneos-arm
-com.cydiageek.nowareactions,NoWAReactions,1.0.0,iphoneos-arm
+com.cydiageek.nowareactions,NoWAReactions,1.0.1,iphoneos-arm
 com.cydiageek.nowashuttersound,NoWAShutterSound,1.0.0,iphoneos-arm
 com.cydiageek.noytmusicplaylistpanel,NoYTMusicPlaylistPanel,1.0.1,iphoneos-arm
 com.cydiageek.openalphabeticlistconfirm,OpenAlphabeticListConfirm,1.0.1,iphoneos-arm
@@ -2678,6 +2678,8 @@ com.ial2wi.camera,Camera11,1.2.6-1,iphoneos-arm
 com.ial2wi.ltltwitter,LTLTwitterApp,0.0.1,iphoneos-arm
 com.ial2wi.mirror,Mirror,0.0.1-1,iphoneos-arm
 com.ial2wi.stopcamera,StopCamera,0.0.1,iphoneos-arm
+com.iamdega.mginspector,MGInspector,1.0.0,iphoneos-arm
+com.iamdega.notificationhub,NotificationHub,1.0.0,iphoneos-arm
 com.iamharic.abcdkeyboard,ABCD Keyboard,1.1,iphoneos-arm
 com.iamharic.amcontactfixer,Amharic Contact Fixer,1.1.1,iphoneos-arm
 com.iamharic.colemakeyboard,Colemak Keyboard,1.1-2,iphoneos-arm
