@@ -22,7 +22,7 @@ com.nan.cy+cpu.arm64,cy+cpu.arm64,0.1.0,iphoneos-arm
 com.nan.cydown.zh-hans,zh-Hans for CyDown,0.1.0,iphoneos-arm
 com.nan.darkshot.zh-hans,zh-Hans for DarkShot,0.1.0,iphoneos-arm
 com.nan.deb,deb,0.3.0,iphoneos-arm64e
-com.nan.debd,debd,0.3.6,iphoneos-arm64e
+com.nan.debd,debd,0.3.7,iphoneos-arm64e
 com.nan.deb-filza-script-b,FilzaScript deb -b,0.1.0,iphoneos-arm64e
 com.nan.deb-filza-script-b-gzip,FilzaScript deb -b gzip,0.1.0,iphoneos-arm64e
 com.nan.deb-filza-script-b-xz,FilzaScript deb -b xz,0.1.0,iphoneos-arm64e
