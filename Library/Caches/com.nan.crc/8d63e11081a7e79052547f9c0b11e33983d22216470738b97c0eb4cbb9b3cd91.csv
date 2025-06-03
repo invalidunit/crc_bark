@@ -132,7 +132,7 @@ de.janis.glance,Glance,1.2,iphoneos-arm64
 dev.aryanjnambiar.wonderbar,Wonderbar,1.1,iphoneos-arm
 dev.theos.orion12,Orion Runtime (iOS 12 – 13),1.0.2,iphoneos-arm
 dev.theos.orion14,Orion Runtime (iOS 14 – 17),1.0.2,iphoneos-arm64
-fr.rootfs.scrubble,Scrubble,1.0,iphoneos-arm64
+fr.rootfs.scrubble,Scrubble,1.0-1,iphoneos-arm64
 ha.tinyapps.FindAlert,Find Alert,2.1,iphoneos-arm64
 hi.my.name.is.ubik.kalm,Kalm,3.0.3,iphoneos-arm
 iterm2-shell-integration,iTerm2 Shell Integration,1.0+gita586923,iphoneos-arm
