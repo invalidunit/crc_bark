@@ -2,6 +2,7 @@ Package,Name,Version,Architecture
 ch.xxtou.hudapp.jb,TrollSpeed JB,1.12.1,iphoneos-arm64e
 ch.xxtou.xxtouch,XXTouch Elite,5.2,iphoneos-arm64e
 codes.aurora.kayoko,Kayoko,2.9,iphoneos-arm64e
+com.82flex.amlyrics,AMLyrics,0.0.1,iphoneos-arm64e
 com.82flex.artworkspinner,ArtworkSpinner,1.5,iphoneos-arm64e
 com.82flex.iconrestore,Icon Restore,1.7,iphoneos-arm64e
 com.82flex.libsandyxpc,libSandyXpc,1.1,iphoneos-arm64e
