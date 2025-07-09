@@ -85,7 +85,8 @@ com.eliassfeir.smartnotificationsios16,SmartNotifications iOS16,1.0,iphoneos-arm
 com.elias.spy2,Spy 2,1.3-1,iphoneos-arm
 com.eliofeghali.souvenir,Souvenir,1.32,iphoneos-arm64
 com.ethanrdoesmc.arise,Arise,1.2.4,iphoneos-arm64
-com.fiore.calculatorhistory,CalculatorHistory,1.1,iphoneos-arm64
+com.fiore.calculatorconverter,CalculatorConverter,1.0,iphoneos-arm64
+com.fiore.calculatorhistory,CalculatorHistory,1.2,iphoneos-arm64
 com.fiore.jellyfishreborn,Jellyfish Reborn,1.1,iphoneos-arm64
 com.flarezephyr.Fine,Fine,1.2,iphoneos-arm64
 com.foxfort.amazonite,AmazoNite,2.0.2,iphoneos-arm
@@ -386,7 +387,7 @@ com.yan.stella,Stella,1.1,iphoneos-arm64
 com.yexc.messagesxi,MessagesXI,2.3,iphoneos-arm64
 com.zachary7829.pastcuts,Pastcuts,1.3.0,iphoneos-arm
 com.zqbb.dynamic120hz,Dynamic120hz,3.2.1,iphoneos-arm64
-com.zqbb.hello.keyboard.ai,HelloKeyboardAI,3.6.6-2,iphoneos-arm64
+com.zqbb.hello.keyboard.ai,HelloKeyboardAI,3.6.6-3,iphoneos-arm64
 co.shoyu.miso,Miso,1.0,iphoneos-arm64
 cum.0xilis.badger,Badger,1.2,iphoneos-arm
 cum.0xilis.unsigncuts,Unsigncuts,2.0,iphoneos-arm64
@@ -441,6 +442,6 @@ org.packix.sleeper,Sleeper (iOS 8-14),7.0.5,iphoneos-arm
 ovh.exerhythm.cardculator,Cardculator,2.1,iphoneos-arm64
 tw.hiraku.ikeywi3p,iKeywi 3 (iOS 8~12),3.4.3,iphoneos-arm
 tw.hiraku.ikeywi4,iKeywi 4,4.2.1,iphoneos-arm64
-wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,5.0,iphoneos-arm64
+wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,5.1,iphoneos-arm64
 wiki.qaq.trapp.jb,TrollRecorder JB,3.5-616,iphoneos-arm64
 wiki.qaq.writenow,Write Now,2.1,iphoneos-arm64
