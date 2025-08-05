@@ -1,6 +1,6 @@
 Package,Name,Version,Architecture
 ch.xxtou.hudapp.jb,TrollSpeed JB,1.12.1,iphoneos-arm64e
-ch.xxtou.xxtouch,XXTouch Elite,5.2,iphoneos-arm64e
+ch.xxtou.xxtouch,XXTouch Elite,5.3.0,iphoneos-arm64e
 codes.aurora.kayoko,Kayoko,2.9,iphoneos-arm64e
 com.82flex.amlyrics,AMLyrics,1.0,iphoneos-arm64e
 com.82flex.artworkspinner,ArtworkSpinner,1.6,iphoneos-arm64e
@@ -10,7 +10,7 @@ com.82flex.noredirect,No Redirect,1.10,iphoneos-arm64e
 com.82flex.ohmyinsets,Oh My Insets,1.2,iphoneos-arm64e
 com.82flex.removewidgetbg,Remove Widget Background,1.7,iphoneos-arm64e
 com.82flex.singlemute,Single Mute,1.5,iphoneos-arm64e
-com.82flex.singlevpn,Single VPN,1.5,iphoneos-arm64e
+com.82flex.singlevpn,Single VPN,1.6,iphoneos-arm64e
 com.82flex.socpwrbud,SoC Power Buddy,1.0,iphoneos-arm64e
 com.82flex.touchvis,Touch-Viz,4.0,iphoneos-arm64e
 com.82flex.wtvrbglauncher,语音转文字免跳转,1.1,iphoneos-arm64e
@@ -26,6 +26,6 @@ love.litten.rose,Rose 🌹,1.1.0,iphoneos-arm64e
 org.swift.protobuf.swiftprotobuf,SwiftProtobuf,1.29.0,iphoneos-arm64e
 system-cmds-memory-pressure,memory_pressure,880.120.1,iphoneos-arm64e
 wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,5.1,iphoneos-arm64e
-wiki.qaq.trapp.jb,TrollRecorder JB,3.5-616,iphoneos-arm64e
+wiki.qaq.trapp.jb,TrollRecorder JB,3.6-3306,iphoneos-arm64e
 wiki.qaq.writenow,Write Now,2.1,iphoneos-arm64e
 xcode-any-debug,Xcode Any Debug,1.0,iphoneos-arm64e
