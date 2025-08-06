@@ -7,7 +7,7 @@ awzedesign.swika,Swika,1.2,iphoneos-arm64
 awzedesign.zenira,Zenira,1.1,iphoneos-arm64
 chaoge.ChargeLimiter,ChargeLimiter,1.7,iphoneos-arm64
 ch.xxtou.hudapp.jb,TrollSpeed JB,1.12.0,iphoneos-arm64
-ch.xxtou.xxtouch,XXTouch Elite,5.2,iphoneos-arm64
+ch.xxtou.xxtouch,XXTouch Elite,5.3.0,iphoneos-arm64
 com.23aaron.zeze,ZEZE,1.9.1,iphoneos-arm64
 com.3h6-1.imread,IMRead,1.2,iphoneos-arm64
 com.82flex.iconrestore,Icon Restore,1.7,iphoneos-arm64
@@ -15,7 +15,7 @@ com.82flex.noredirect,No Redirect,1.9,iphoneos-arm64
 com.82flex.ohmyinsets,Oh My Insets,1.2,iphoneos-arm64
 com.82flex.removewidgetbg,Remove Widget Background,1.7,iphoneos-arm64
 com.82flex.singlemute,Single Mute,1.5,iphoneos-arm64
-com.82flex.singlevpn,Single VPN,1.5,iphoneos-arm64
+com.82flex.singlevpn,Single VPN,1.6,iphoneos-arm64
 com.82flex.touchvis,Touch-Viz,4.0.1,iphoneos-arm64
 com.adamseiter.animationsbefastplus,AnimationsBeFastPlus,5.1,iphoneos-arm
 com.adamseiter.animplus,AnimPlus,2.5,iphoneos-arm
@@ -445,5 +445,5 @@ ovh.exerhythm.cardculator,Cardculator,2.1,iphoneos-arm64
 tw.hiraku.ikeywi3p,iKeywi 3 (iOS 8~12),3.4.3,iphoneos-arm
 tw.hiraku.ikeywi4,iKeywi 4,4.2.1,iphoneos-arm64
 wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,5.1,iphoneos-arm64
-wiki.qaq.trapp.jb,TrollRecorder JB,3.5-616,iphoneos-arm64
+wiki.qaq.trapp.jb,TrollRecorder JB,3.6-3306,iphoneos-arm64
 wiki.qaq.writenow,Write Now,2.1,iphoneos-arm64
