@@ -1,6 +1,6 @@
 Package,Name,Version,Architecture
 com.nan.16player.zh-hans,zh-Hans for 16Player,0.1.0,iphoneos-arm64e
-com.nan.aaaa,Add AppBundles and AppDataContainers,0.2.0-1,iphoneos-arm64e
+com.nan.aaaa,Add AppBundles and AppDataContainers,0.1.0-1,iphoneos-arm64e
 com.nan.aential,Aential,0.1.0,iphoneos-arm64e
 com.nan.allemand,Allemand,0.1.0,iphoneos-arm64e
 com.nan.allemand-filza-script,FilzaScript Allemand,0.1.0,iphoneos-arm64e
