@@ -1,6 +1,6 @@
 Package,Name,Version,Architecture
 ch.xxtou.hudapp.jb,TrollSpeed JB,1.12.1,iphoneos-arm64e
-ch.xxtou.xxtouch,XXTouch Elite,5.3.3,iphoneos-arm64e
+ch.xxtou.xxtouch,XXTouch Elite,5.3.4,iphoneos-arm64e
 codes.aurora.kayoko,Kayoko,2.9,iphoneos-arm64e
 com.82flex.amlyrics,AMLyrics,1.0,iphoneos-arm64e
 com.82flex.artworkspinner,ArtworkSpinner,1.6,iphoneos-arm64e
@@ -25,7 +25,7 @@ dev.traurige.kayoko,Kayoko,1.2-3,iphoneos-arm
 love.litten.rose,Rose 🌹,1.1.0,iphoneos-arm64e
 org.swift.protobuf.swiftprotobuf,SwiftProtobuf,1.29.0,iphoneos-arm64e
 system-cmds-memory-pressure,memory_pressure,880.120.1,iphoneos-arm64e
-wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,5.1,iphoneos-arm64e
+wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,5.2,iphoneos-arm64e
 wiki.qaq.trapp.jb,TrollRecorder JB,3.6-3306,iphoneos-arm64e
 wiki.qaq.writenow,Write Now,2.1,iphoneos-arm64e
 xcode-any-debug,Xcode Any Debug,1.0,iphoneos-arm64e
