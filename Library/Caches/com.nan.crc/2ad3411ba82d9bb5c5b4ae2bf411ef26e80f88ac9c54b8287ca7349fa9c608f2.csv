@@ -49,7 +49,7 @@ com.cydiageek.gyration,Gyration,1.1.5,iphoneos-arm64
 com.cydiageek.gyrationapps,GyrationApps,1.0.1,iphoneos-arm64
 com.cydiageek.hapticsleep,HapticSleep,1.0.2,iphoneos-arm64
 com.cydiageek.hidecallbar,HideCallBar,1.0.0,iphoneos-arm64
-com.cydiageek.hidesearchbutton,HideSearchButton,1.0.0,iphoneos-arm64
+com.cydiageek.hidesearchbutton,HideSearchButton,1.0.1,iphoneos-arm64
 com.cydiageek.huebatterybar,hueBatterybar,1.0.4,iphoneos-arm64
 com.cydiageek.igimagesave,IGImageSave,1.0.1,iphoneos-arm64
 com.cydiageek.ipdisabledtextaddress,IPDisabledTextAddress,1.0.0,iphoneos-arm64
@@ -110,7 +110,7 @@ com.den.shortcutx,ShortCutx,0.0.1-1,iphoneos-arm64
 com.dvntm.showmytouches,ShowMyTouches,1.1.2,iphoneos-arm
 com.dvntm.walegacy,WALegacy,0.0.3-1,iphoneos-arm64
 com.edualexxis.lsbhide,LSBHide,1.0,iphoneos-arm64
-com.erik.applockerplus,App加锁助手(App Lock),7.5.0,iphoneos-arm64
+com.erik.applockerplus,App加锁助手(App Lock),7.6.0,iphoneos-arm64
 com.erik.inapplock,In-App Locker(App内部锁),2.0.0,iphoneos-arm64
 com.ethanrdoesmc.dawn,Dawn,1.2,iphoneos-arm64
 com.iadam1n.statusfolder,StatusFolder,1.0.2,iphoneos-arm64

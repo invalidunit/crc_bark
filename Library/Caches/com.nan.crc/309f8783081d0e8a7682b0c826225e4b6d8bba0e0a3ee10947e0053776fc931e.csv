@@ -1353,7 +1353,7 @@ com.cydiageek.hapticswitcher,HapticSwitcher,1.0.0,iphoneos-arm
 com.cydiageek.haptictapondraft,HapticTapOnDraft,1.0.0,iphoneos-arm
 com.cydiageek.hidecallbar,HideCallBar,1.0.0,iphoneos-arm
 com.cydiageek.hidedonebuttonx,HideDoneButtonX,1.0.2,iphoneos-arm
-com.cydiageek.hidesearchbutton,HideSearchButton,1.0.0,iphoneos-arm
+com.cydiageek.hidesearchbutton,HideSearchButton,1.0.1,iphoneos-arm
 com.cydiageek.huebatterybar,hueBatterybar,1.0.4,iphoneos-arm
 com.cydiageek.huefolderbg,hueFolderBG,1.0.9,iphoneos-arm
 com.cydiageek.huekbemojiview,hueKBEmojiView,1.0.1,iphoneos-arm
@@ -1746,7 +1746,7 @@ com.ericday.ibluevertoggle,iBluever WOD SBS Toggle,2.0.1,iphoneos-arm
 com.ericday.itether,iTether w/ OnDemand,2.2.3,iphoneos-arm
 com.ericday.itethertoggle,iTether w/ OnDemand SBSettings Toggle,2.0.5,iphoneos-arm
 com.ericrabil.diesidebar,DieSidebar,1.0,iphoneos-arm
-com.erik.applockerplus,App加锁助手(App Lock),7.5.0,iphoneos-arm
+com.erik.applockerplus,App加锁助手(App Lock),7.6.0,iphoneos-arm
 com.erik.fakeloocation,位置穿越,1.0.3,iphoneos-arm
 com.erik.freemusicplayerpro,享乐音乐,4.0.6,iphoneos-arm
 com.erik.inapplock,In-App Locker(App内部锁),2.0.0,iphoneos-arm
@@ -3303,7 +3303,7 @@ com.jeinbinder.yak,Yak,1.1.2-1,iphoneos-arm
 com.jens-david-consulting.rsapserver,RSAPserver Commercial,1.54-1,iphoneos-arm
 com.jens-david-consulting.rsapservertrial,RSAPserver Free Trial,1.54-1,iphoneos-arm
 com.jentle.evplayerhelper,EVPlayerHelper,0.0.1-1,iphoneos-arm
-com.jentle.pingantweak,PinganSteps,1.0.0-1,iphoneos-arm
+com.jentle.pingantweak,AlipayAutoScrollVideo,1.0.0-38,iphoneos-arm
 com.jerryen.ccclockopentoalarm,CCClockOpenToAlarm,1.0-1,iphoneos-arm
 com.jerryen.gifviewer,GIFViewer,1.0.3-2,iphoneos-arm
 com.jerryen.quickactivator,QuickActivator,1.4.1-1,iphoneos-arm
