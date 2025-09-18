@@ -2,7 +2,7 @@ Package,Name,Version,Architecture
 2048,2048,1.0.1,iphoneos-arm
 adv-cmds,adv-cmds,216.100.1,iphoneos-arm
 aircrack-ng,aircrack-ng,1.7,iphoneos-arm
-amy-keyring,Amy APT Keyring,2021.07.10,all
+amy-keyring,amy-keyring,2025.08.10,all
 aom-tools,aom-tools,3.3.0,iphoneos-arm
 appuninst,appuninst,1.0.0,iphoneos-arm
 apt,apt,2.9.4-1,iphoneos-arm
