@@ -145,7 +145,7 @@ cn.ming.charginghelperplus.ios8,ChargingHelperPlus for iOS 8,0.7.2-1,iphoneos-ar
 cn.parsec.acamar,AcamarUI,1.7-15,iphoneos-arm
 cn.tinyapps.antitracker,AntiTracker(查岗报警器)-Alerts you when tracked by others in real time,2.0.2,iphoneos-arm
 cn.tinyapps.location360,虚拟定位 (经典+扫街+模拟导航),2.6.5,iphoneos-arm
-cn.tinyapps.location360pro,360虚拟定位[企业版](Fake Location Pro),3.0.8,iphoneos-arm
+cn.tinyapps.location360pro,360虚拟定位[企业版](Fake Location Pro),3.0.9,iphoneos-arm
 cn.tinyapps.renet,连个锤子-越狱联网一键修复[iOS 10.0~14.3],1.2,iphoneos-arm
 cn.tinyapps.respringassistant,Respring Assistant(快速注销+联网修复) - Restart your SpringBoard QUICKLY Refresh App Icons EASILY Restore network,1.6.1,iphoneos-arm
 cn.tinyapps.rst,361一键新机(MultiAccount Master)-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串,2.4.2.1,iphoneos-arm
@@ -154,7 +154,7 @@ cn.tinyapps.wechatonepro,微信炫铃Pro(TinyTones Pro)-个性化的微信铃声
 cn.tinyapps.wxtones,微信炫铃-一键设定个性化微信提示音(Customized Tones for WeChat),2.1,iphoneos-arm
 cn.tinyapps.xgpsfree,定位修改Fake GPS(免费版),4.2,iphoneos-arm
 cn.tinyapps.xgpslite,定位修改Fake GPS(正版)-全系列设备兼容,4.4,iphoneos-arm
-cn.tinyapps.xgpspro,Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish,4.6.7,iphoneos-arm
+cn.tinyapps.xgpspro,Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish,4.6.8,iphoneos-arm
 co.bananastudios.avus,Avus,1.0-1,iphoneos-arm
 co.bananastudios.translucentpowerdown,TranslucentPowerdown,0.0.1-1,iphoneos-arm
 co.bananastudios.wolfram,Aporeo,2.4,iphoneos-arm
@@ -7059,7 +7059,7 @@ net.ispazio.simanager,SIManager,2.8,iphoneos-arm
 net.iwatcher.mytunes,myTunes,0.3-1,iphoneos-arm
 net.joebruce.fakepicture,FakePicture(拍照替换)-taking pseudo selfie,1.9.1,iphoneos-arm
 net.joebruce.fakeqrcode,FakeQRCode(二维码替换)-scan pseudo barcode,1.2.9,iphoneos-arm
-net.joebruce.gpsmaster,GPS Master(GPS定位大师)-Fake NavigationLocation Spoofer,2.2.5,iphoneos-arm
+net.joebruce.gpsmaster,GPS Master(GPS定位大师)-Fake NavigationLocation Spoofer,2.2.6,iphoneos-arm
 net.joebruce.respringhelper,Respring Helper(重启桌面)-restart SpringBoard,1.5.5,iphoneos-arm
 net.joebruce.uninstallguard,UninstallGuard(卸载守护者) - forbid removing Apps,1.5.6,iphoneos-arm
 net.joedj.cmdivator,Cmdivator,1.0-1,iphoneos-arm
