@@ -145,10 +145,10 @@ cn.ming.charginghelperplus.ios8,ChargingHelperPlus for iOS 8,0.7.2-1,iphoneos-ar
 cn.parsec.acamar,AcamarUI,1.7-15,iphoneos-arm
 cn.tinyapps.antitracker,AntiTracker(查岗报警器)-Alerts you when tracked by others in real time,2.0.2,iphoneos-arm
 cn.tinyapps.location360,虚拟定位 (经典+扫街+模拟导航),2.6.5,iphoneos-arm
-cn.tinyapps.location360pro,360虚拟定位[企业版](Fake Location Pro),3.0.9,iphoneos-arm
+cn.tinyapps.location360pro,360虚拟定位[企业版](Fake Location Pro),3.0.10,iphoneos-arm
 cn.tinyapps.renet,连个锤子-越狱联网一键修复[iOS 10.0~14.3],1.2,iphoneos-arm
 cn.tinyapps.respringassistant,Respring Assistant(快速注销+联网修复) - Restart your SpringBoard QUICKLY Refresh App Icons EASILY Restore network,1.6.1,iphoneos-arm
-cn.tinyapps.rst,361一键新机(MultiAccount Master)-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串,2.4.2.1,iphoneos-arm
+cn.tinyapps.rst,361一键新机(MultiAccount Master)-全系统(iOS 7/8/9/10/11/12/13/14/15/16)一键改串,2.4.2.2,iphoneos-arm
 cn.tinyapps.wechatonelite,微信炫铃Lite(Tiny Tones Lite)-史上最强修改微信铃音插件,1.1.2,iphoneos-arm
 cn.tinyapps.wechatonepro,微信炫铃Pro(TinyTones Pro)-个性化的微信铃声修改器,1.7,iphoneos-arm
 cn.tinyapps.wxtones,微信炫铃-一键设定个性化微信提示音(Customized Tones for WeChat),2.1,iphoneos-arm
@@ -1293,6 +1293,7 @@ com.cydiageek.cclessstatusbar,CCLessStatusBAR,1.0.4,iphoneos-arm
 com.cydiageek.ccsmooth10,CCSmooth10,1.0.3,iphoneos-arm
 com.cydiageek.ccspaceitems,CCSpaceItems,1.0.1,iphoneos-arm
 com.cydiageek.cctools,CCTools,0.0.1-31,iphoneos-arm
+com.cydiageek.chargingbanner,ChargingBanner,1.0.0,iphoneos-arm
 com.cydiageek.cleanreachabilityview,CleanReachabilityView,1.0.1,iphoneos-arm
 com.cydiageek.cleanspotfooters,CleanSpotFooters,1.0.2,iphoneos-arm
 com.cydiageek.clearclockview,ClearClockView,1.6,iphoneos-arm
