@@ -1377,6 +1377,7 @@ com.cydiageek.lpmnowakewhencharge,LPMNoWakeWhenCharge,1.0.1,iphoneos-arm
 com.cydiageek.lpmonscreenshot,LPMonScreenshot,1.0.0,iphoneos-arm
 com.cydiageek.lshiddentools10,LSHiddenTools10,1.1.2,iphoneos-arm
 com.cydiageek.marina,Marina,1.2.4,iphoneos-arm
+com.cydiageek.messagedatetime,MessageDateTime,1.0.0,iphoneos-arm
 com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.5,iphoneos-arm
 com.cydiageek.movemyiconsdown,moveMyIconsDown,1.0.2,iphoneos-arm
 com.cydiageek.msgnometacircle,MSGNoMetaCircle,1.0.0,iphoneos-arm
@@ -6820,7 +6821,7 @@ me.haifisch.noticlock,NotiClock,1.2-1,iphoneos-arm
 me.haifisch.quotesdaily,QuotesDaily for Notification Center,1.0,iphoneos-arm
 me.haunold.xpandr2,Xpandr 2,2.0-1,iphoneos-arm
 me.health.app,改个步数-专业的步数修改软件,3.1.0,iphoneos-arm
-me.ikghd.lsfcdenied,LSFCDenied,0.0.1,iphoneos-arm
+me.ikghd.lsfcdenied,LSFCDenied,0.0.5,iphoneos-arm
 me.iv01d.messagemarkdown,MessageMarkdown,1.2,iphoneos-arm
 me.k3a.ab,AutoBrightness,1.3.0-2,iphoneos-arm
 me.k3a.ae,AssistantExtensions,1.0.2-184-1,iphoneos-arm
@@ -9678,7 +9679,7 @@ podkill,PodKill,2.0,iphoneos-arm
 pogoplank,PogoPlank,1.2-1,iphoneos-arm
 preferenceloader,PreferenceLoader,2.2.6,iphoneos-arm
 pro.ikghd.ikset,iKSettings,3.3,iphoneos-arm
-pro.ikghd.pmp,PMP,1.9,iphoneos-arm
+pro.ikghd.pmp,PMP,1.12,iphoneos-arm
 pwntunes,PwnTunes,1.4.0.8,iphoneos-arm
 pw.virulent.cwc,ConfirmWithCena,1.3,iphoneos-arm
 quickload,Quickload,1.0,iphoneos-arm
@@ -9841,7 +9842,7 @@ tw.hiraku.notweetkb,NoTweetKeyboard,1.0.2,iphoneos-arm
 tw.hiraku.noweibo,NoChineseSNS,1.3.1,iphoneos-arm
 tw.hiraku.proceduralwploader,ProceduralWallpaperLoader,0.2-1,iphoneos-arm
 tw.hiraku.seasonwallpaper,Season Wallpaper,1.2.0,iphoneos-arm
-twitter.nowesr1.location-spoofer,WALocationSpoofer,0.0.2,iphoneos-arm
+twitter.nowesr1.location-spoofer,WALocationSpoofer,0.0.3,iphoneos-arm
 twitter.nowesr1.photosplus,PhotosPlus,0.0.1,iphoneos-arm
 twitter.nowesr1.waignorecalls,WAIgnoreCalls,1.2,iphoneos-arm
 tw.willy.lung.whoscall,Instant Caller ID for Whoscall,1.2.0,iphoneos-arm
