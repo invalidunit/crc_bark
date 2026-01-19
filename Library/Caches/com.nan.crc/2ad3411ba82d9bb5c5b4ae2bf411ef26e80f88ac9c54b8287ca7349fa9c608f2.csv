@@ -12,9 +12,9 @@ cn.tinyapps.rst,361一键新机(MultiAccount Master)-全系统(iOS 7/8/9/10/11/1
 cn.tinyapps.wxtones,微信炫铃-一键设定个性化微信提示音(Customized Tones for WeChat),3.0,iphoneos-arm64
 cn.tinyapps.xgpspro,Fake GPS Pro(定位修改器)-FAKE your iPhone's location as you wish,4.6.8,iphoneos-arm64
 cn.zqbb.disupdateapp,BlockAppUpdate 屏蔽App Store更新,2.0.0-6,iphoneos-arm64
-cn.zqbb.hello.memorystatus,Hello Memory Status,3.3.1-2,iphoneos-arm64
-cn.zqbb.hello.qactions,Hello QActions,1.2.0-8,iphoneos-arm64
-cn.zqbb.holdcpu,Hello CPU,2.3.4-16,iphoneos-arm64
+cn.zqbb.hello.memorystatus,Hello Memory Status,3.3.1-3,iphoneos-arm64
+cn.zqbb.hello.qactions,Hello QActions,1.2.0-9,iphoneos-arm64
+cn.zqbb.holdcpu,Hello CPU,2.3.5-1,iphoneos-arm64
 cn.zqbb.orzfolder,Hello Folder,1.5.0-3,iphoneos-arm64
 com.0xkuj.blockwaupdates,Block WA Updates,1.1,iphoneos-arm64
 com.0xkuj.deleteallalarms,GlobAlarmSettings,2.0.2,iphoneos-arm64
@@ -172,7 +172,7 @@ me.afhook.app,改个应用-专业的应用修改软件,3.7.0,iphoneos-arm64
 me.health.app,改个步数-专业的步数修改软件,3.2.0,iphoneos-arm64
 me.ikghd.lsfcdenied,LSFCDenied,0.0.5,iphoneos-arm64
 me.liuming.apphider,App Hider(应用隐藏助手)-Make Apps disappeared from SpringBoard,2.2.6,iphoneos-arm64
-me.liuming.locationexpert,虚拟定位专家(GPS Faker Expert)-模拟导航，扫街,3.3.6,iphoneos-arm64
+me.liuming.locationexpert,虚拟定位专家(GPS Faker Expert)-模拟导航，扫街,3.3.8,iphoneos-arm64
 me.liuming.locationhelper,虚拟定位助手 GPS Faker,5.7.5,iphoneos-arm64
 me.lochook.app,定个位-专业的位置修改软件,5.3.0,iphoneos-arm64
 net.ajbbo.acgps,ACGPS,1.0,iphoneos-arm64
