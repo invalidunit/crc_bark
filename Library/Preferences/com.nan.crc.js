@@ -10,7 +10,7 @@
       "del": "下列软件包已移除：",
       "up": "下列软件包已更新："
     },
-    "sound": "healthnotification"
+    "sound": "silence"
   },
   "enable": 1,
   "use_name": 0,
