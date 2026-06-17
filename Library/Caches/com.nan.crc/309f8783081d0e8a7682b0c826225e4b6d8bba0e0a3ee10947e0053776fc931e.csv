@@ -1262,7 +1262,7 @@ com.cydiageek.appcountswitcher,AppCountSwitcher,1.0.0,iphoneos-arm
 com.cydiageek.askactiontube,AskActionTube,1.0.1,iphoneos-arm
 com.cydiageek.asktodeletemail,AskToDeleteMail,1.0.2,iphoneos-arm
 com.cydiageek.barfade,BarFade,1.2.8-1,iphoneos-arm
-com.cydiageek.barinprogress,BarinProgress,1.0.1,iphoneos-arm
+com.cydiageek.barinprogress,BarinProgress,1.0.2,iphoneos-arm
 com.cydiageek.batteryfoldertitle,BatteryFolderTitle,1.1.5,iphoneos-arm
 com.cydiageek.batteryhud,BatteryHUD,1.0.0,iphoneos-arm
 com.cydiageek.batteryspotlabeless,BatterySpotLabeless,1.0.0,iphoneos-arm
@@ -6025,8 +6025,8 @@ com.willstrafach.camerapreviewdisabler,Camera Preview Disabler,1.0.0-1,iphoneos-
 com.willy.lung.fblandscape,FBLandscape,1.0.0-2,iphoneos-arm
 com.willy.lung.instatools,InstaTools,1.7.9,iphoneos-arm
 com.wisy.dummypass,DummyPass,0.0.23,iphoneos-arm
-com.witchan.appangel,应用天使,0.0.3,iphoneos-arm
-com.witchan.ios-mcp,iOS MCP,1.1.2,iphoneos-arm
+com.witchan.appangel,应用天使,1.0.0,iphoneos-arm
+com.witchan.ios-mcp,iOS MCP,1.2.0,iphoneos-arm
 com.witchan.precise-time,状态栏秒表,0.0.1,iphoneos-arm
 com.witchan.witchanagent,iOS远程大师,0.0.3,iphoneos-arm
 com.wizages.bae,MakeRespringsGreatAgain,1.4,iphoneos-arm
@@ -6868,7 +6868,7 @@ me.lightmann.stripecount,StripeCount,1.0.4,iphoneos-arm
 me.lightmann.texttime,TextTime,1.0.2.4,iphoneos-arm
 me.lightmann.vinyl,Vinyl,1.1.5,iphoneos-arm
 me.liuming.apphider,App Hider(应用隐藏助手)-Make Apps disappeared from SpringBoard,2.2.7,iphoneos-arm
-me.liuming.locationexpert,虚拟定位专家(GPS Faker Expert)-模拟导航，扫街,3.3.8,iphoneos-arm
+me.liuming.locationexpert,虚拟定位专家(GPS Faker Expert)-模拟导航，扫街,3.3.9,iphoneos-arm
 me.liuming.locationhelper,虚拟定位助手 - 系统GPS定位修改器，GPS Faker，模拟全球天下游，,5.7.5,iphoneos-arm
 me.lmcd.notestweak,NotesTweak,1.2.5-3,iphoneos-arm
 me.lochook.app,定个位-专业的位置修改软件,5.3.0,iphoneos-arm

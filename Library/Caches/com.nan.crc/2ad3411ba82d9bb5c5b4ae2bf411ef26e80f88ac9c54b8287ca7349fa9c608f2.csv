@@ -29,6 +29,7 @@ com.cydiageek.alwaysdismissairplanealert,AlwaysDismissAirplaneAlert,1.0.1,iphone
 com.cydiageek.alwayseditpages,AlwaysEditPages,1.0.1,iphoneos-arm64
 com.cydiageek.appcountswitcher,AppCountSwitcher,1.0.0,iphoneos-arm64
 com.cydiageek.asktodeletemail,AskToDeleteMail,1.0.2,iphoneos-arm64
+com.cydiageek.barinprogress,BarinProgress,1.0.2,iphoneos-arm64
 com.cydiageek.batteryfoldertitle,BatteryFolderTitle,1.1.5,iphoneos-arm64
 com.cydiageek.byebadges,ByeBadges,1.1.4,iphoneos-arm64
 com.cydiageek.byebreadcrumbs,ByeBreadcrumbs,1.0.4,iphoneos-arm64
@@ -165,7 +166,8 @@ com.tomaszpoliszuk.dockcontroller,Dock Controller,2.1,iphoneos-arm64
 com.tomaszpoliszuk.keyboardcontroller,Keyboard Controller,1.2.3,iphoneos-arm64
 com.torrekie.simplecncallkitenabler,SimpleCNCallkitEnabler,0.0.1,iphoneos-arm64
 com.vbox,VBOX官方正版,5.5,iphoneos-arm64
-com.witchan.ios-mcp,iOS MCP,1.1.2,iphoneos-arm64
+com.witchan.appangel,应用天使,1.0.0,iphoneos-arm64
+com.witchan.ios-mcp,iOS MCP,1.2.0,iphoneos-arm64
 com.witchan.witchanagent,iOS远程大师,0.0.3,iphoneos-arm64
 com.zorrovip.bigboss.rootless,Zorro全系備份「rootless无根」,18.0.2,iphoneos-arm64
 com.zqbb.fix120hz,Hello 120Hz,3.3.0-1,iphoneos-arm64
@@ -184,7 +186,7 @@ me.afhook.app,改个应用-专业的应用修改软件,3.7.0,iphoneos-arm64
 me.health.app,改个步数-专业的步数修改软件,3.2.0,iphoneos-arm64
 me.ikghd.lsfcdenied,LSFCDenied,0.0.5,iphoneos-arm64
 me.liuming.apphider,App Hider(应用隐藏助手)-Make Apps disappeared from SpringBoard,2.2.7,iphoneos-arm64
-me.liuming.locationexpert,虚拟定位专家(GPS Faker Expert)-模拟导航，扫街,3.3.8,iphoneos-arm64
+me.liuming.locationexpert,虚拟定位专家(GPS Faker Expert)-模拟导航，扫街,3.3.9,iphoneos-arm64
 me.liuming.locationhelper,虚拟定位助手 GPS Faker,5.7.5,iphoneos-arm64
 me.lochook.app,定个位-专业的位置修改软件,5.3.0,iphoneos-arm64
 net.ajbbo.acgps,ACGPS,1.0,iphoneos-arm64
