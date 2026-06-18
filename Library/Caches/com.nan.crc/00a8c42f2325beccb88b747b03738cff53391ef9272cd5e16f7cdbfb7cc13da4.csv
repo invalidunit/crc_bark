@@ -19,7 +19,7 @@ com.nan.cy+cpu.arm64,cy+cpu.arm64,0.1.0,iphoneos-arm
 com.nan.cydown.zh-hans,zh-Hans for CyDown,0.1.0,iphoneos-arm
 com.nan.darkshot.zh-hans,zh-Hans for DarkShot,0.1.0,iphoneos-arm
 com.nan.deb,deb,0.3.0,iphoneos-arm64e
-com.nan.debd,debd,0.4.0,iphoneos-arm64e
+com.nan.debd,debd,0.4.2,iphoneos-arm64e
 com.nan.deb-filza-script-b,FilzaScript deb -b,0.1.0,iphoneos-arm64e
 com.nan.deb-filza-script-b-gzip,FilzaScript deb -b gzip,0.1.0,iphoneos-arm64e
 com.nan.deb-filza-script-b-xz,FilzaScript deb -b xz,0.1.0,iphoneos-arm64e
@@ -51,6 +51,7 @@ com.nan.playing.zh-hans,zh-Hans for Playing,0.1.0,iphoneos-arm
 com.nan.pointless,Pointless,0.1.0,iphoneos-arm64e
 com.nan.pulloverpro.zh-hans,zh-Hans for PullOver Pro,0.1.1,iphoneos-arm
 com.nan.raru,Respring after reboot userspace,0.1.4,iphoneos-arm64e
+com.nan.realitytmp,Reality tmp,0.3.3,iphoneos-arm64e
 com.nan.rebirth,Rebirth,0.1.5,iphoneos-arm64e
 com.nan.resetfonts,reset fonts,0.1.5,iphoneos-arm64
 com.nan.sabotageocsp,Sabotage OCSP,0.3.1,iphoneos-arm64e
