@@ -18,7 +18,6 @@ com.nan.crane.zh-hans,zh-Hans for Crane,0.1.0-4,iphoneos-arm64e
 com.nan.csp,Custom SSH Port,0.1.0,iphoneos-arm64e
 com.nan.cy+cpu.arm64,cy+cpu.arm64,0.1.0,iphoneos-arm
 com.nan.cydown.zh-hans,zh-Hans for CyDown,0.1.0,iphoneos-arm
-com.nan.darkshot.zh-hans,zh-Hans for DarkShot,0.1.0,iphoneos-arm
 com.nan.deb,deb,0.3.0,iphoneos-arm64e
 com.nan.debd,debd,0.4.2,iphoneos-arm64e
 com.nan.deb-filza-script-b,FilzaScript deb -b,0.1.0,iphoneos-arm64e
@@ -58,7 +57,6 @@ com.nan.resetfonts,reset fonts,0.1.5,iphoneos-arm64
 com.nan.sabotageocsp,Sabotage OCSP,0.3.1,iphoneos-arm64e
 com.nan.sccbav,Small CC Brightness and Volume,0.1.3,iphoneos-arm
 com.nan.sentinel.zh-hans,zh-Hans for Sentinel,0.1.2,iphoneos-arm
-com.nan.settingsrevamp.zh-hans,zh-Hans for SettingsRevamp,0.1.2,iphoneos-arm64e
 com.nan.shuffle.zh-hans,zh-Hans for Shuffle,0.1.0,iphoneos-arm64e
 com.nan.sileo.zh-hans,zh-Hans for Sileo,0.4.4,iphoneos-arm64e
 com.nan.smallccairplay,Small CC AirPlay,0.1.0,iphoneos-arm
@@ -66,7 +64,6 @@ com.nan.snap,snap,0.3.5,iphoneos-arm
 com.nan.snapper3.zh-hans,zh-Hans for Snapper 3,0.1.2,iphoneos-arm64e
 com.nan.souvenir.zh-hans,zh-Hans for Souvenir,0.2.0,iphoneos-arm64e
 com.nan.sshd2,sshd2,0.2.1,iphoneos-arm
-com.nan.swipeextenderx.zh-hans,zh-Hans for SwipeExtenderX,0.1.0,iphoneos-arm
 com.nan.tit,Taurine in Tips,0.2.4,iphoneos-arm
 com.nan.tito,Taurine in Tips (orig icon),0.2.4,iphoneos-arm
 com.nan.titu,Taurine in Tips for unc0ver,0.2.4,iphoneos-arm
