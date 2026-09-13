@@ -31,7 +31,7 @@ com.cydiageek.alwayseditpages,AlwaysEditPages,1.0.1,iphoneos-arm64
 com.cydiageek.appcountswitcher,AppCountSwitcher,1.0.0,iphoneos-arm64
 com.cydiageek.asktodeletemail,AskToDeleteMail,1.0.2,iphoneos-arm64
 com.cydiageek.barinprogress,BarinProgress,1.0.2,iphoneos-arm64
-com.cydiageek.baronlandscape,BarOnLandScape,1.0.0,iphoneos-arm64
+com.cydiageek.baronlandscape,BarOnLandScape,1.0.1,iphoneos-arm64
 com.cydiageek.batteryfoldertitle,BatteryFolderTitle,1.1.5,iphoneos-arm64
 com.cydiageek.byebadges,ByeBadges,1.1.4,iphoneos-arm64
 com.cydiageek.byebreadcrumbs,ByeBreadcrumbs,1.0.4,iphoneos-arm64
@@ -130,12 +130,13 @@ com.den.respr1ng,Respr1ng,0.0.1-3,iphoneos-arm64
 com.den.shortcutx,ShortCutx,0.0.1-1,iphoneos-arm64
 com.dvntm.showmytouches,ShowMyTouches,1.1.2,iphoneos-arm
 com.dvntm.walegacy,WALegacy,0.0.3-1,iphoneos-arm64
+com.edualexxis.gphotospixeltweak,Gphotos Spoof,1.1.0,iphoneos-arm
 com.edualexxis.lsbhide,LSBHide,1.0,iphoneos-arm64
 com.erik.applockerplus,App加锁助手(App Lock),7.6.0,iphoneos-arm64
 com.erik.inapplock,In-App Locker(App内部锁),2.0.0,iphoneos-arm64
 com.erik.revealloader,RevealLoader for 24&50,1.0.1,iphoneos-arm64
 com.ethanrdoesmc.dawn,Dawn,1.2,iphoneos-arm64
-com.flex2areo.apptools15rootless,AppTools,1.0.2,iphoneos-arm64
+com.flex2areo.apptools15rootless,AppTools,1.0.3,iphoneos-arm64
 com.iadam1n.statusfolder,StatusFolder,1.0.2,iphoneos-arm64
 com.iamdega.mginspector,MGInspector,1.0.0,iphoneos-arm64
 com.iamdega.notificationhub,NotificationHub,1.0.3,iphoneos-arm64
@@ -174,7 +175,7 @@ com.tomaszpoliszuk.keyboardcontroller,Keyboard Controller,1.2.3,iphoneos-arm64
 com.torrekie.simplecncallkitenabler,SimpleCNCallkitEnabler,0.0.1,iphoneos-arm64
 com.vbox,VBOX官方正版,6.5,iphoneos-arm64
 com.witchan.appangel,应用天使,1.0.0,iphoneos-arm64
-com.witchan.ios-mcp,iOS MCP,1.2.4,iphoneos-arm64
+com.witchan.ios-mcp,iOS MCP,1.2.5,iphoneos-arm64
 com.witchan.witchanagent,iOS远程大师,0.0.3,iphoneos-arm64
 com.zorrovip.bigboss.rootless,Zorro全系備份「rootless无根」,18.0.2,iphoneos-arm64
 com.zqbb.fix120hz,Hello 120Hz,3.3.0-3,iphoneos-arm64
