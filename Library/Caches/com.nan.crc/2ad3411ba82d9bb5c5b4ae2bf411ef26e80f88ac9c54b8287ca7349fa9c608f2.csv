@@ -60,8 +60,8 @@ com.cydiageek.ermete,Ermete,1.0.5,iphoneos-arm64
 com.cydiageek.fastdeletekey,FastDeleteKey,1.0.4,iphoneos-arm64
 com.cydiageek.flashy,Flashy,1.0.3,iphoneos-arm64
 com.cydiageek.glowy,Glowy,1.0.3,iphoneos-arm64
-com.cydiageek.gyration,Gyration,1.1.6,iphoneos-arm64
-com.cydiageek.gyrationapps,GyrationApps,1.0.2,iphoneos-arm64
+com.cydiageek.gyration,Gyration,1.1.7,iphoneos-arm64
+com.cydiageek.gyrationapps,GyrationApps,1.0.3,iphoneos-arm64
 com.cydiageek.hapticsleep,HapticSleep,1.0.2,iphoneos-arm64
 com.cydiageek.hidecallbar,HideCallBar,1.0.0,iphoneos-arm64
 com.cydiageek.hidesearchbutton,HideSearchButton,1.0.1,iphoneos-arm64
@@ -193,7 +193,7 @@ jb.acc.gpsmanager,GPS Manager(GPS定位管家),2.3.3,iphoneos-arm64
 jp.r-plus.doublecut,DoubleCut,0.8,iphoneos-arm64
 jp.r-plus.slidecut,SlideCut,0.9,iphoneos-arm64
 jp.r-plus.swipeshiftcaret,SwipeShiftCaret,1.11,iphoneos-arm64
-me.afhook.app,改个应用-专业的应用修改软件,3.7.0,iphoneos-arm64
+me.afhook.app,改个应用-专业的应用修改软件,3.8.0,iphoneos-arm64
 me.health.app,改个步数-专业的步数修改软件,3.2.0,iphoneos-arm64
 me.ikghd.lsfcdenied,LSFCDenied,0.0.5,iphoneos-arm64
 me.liuming.apphider,App Hider(应用隐藏助手)-Make Apps disappeared from SpringBoard,2.3.0,iphoneos-arm64
