@@ -208,6 +208,7 @@ net.joebruce.respringhelper,Respring Helper(重启桌面)-restart SpringBoard,1.
 net.joebruce.uninstallguard,UninstallGuard(卸载守护者) - forbid removing Apps,1.5.6,iphoneos-arm64
 net.limneos.livecalltranslator,Live Call Translator,0.1-41,iphoneos-arm64
 netskao.wechatpurification,微信净化,2026.04-6,iphoneos-arm64
+org.thebigboss.locationpin,LocationPin,1.2.0,iphoneos-arm64
 org.thebigboss.whatsapprevael,Whatsapp Revael,10.23,iphoneos-arm64
 preferenceloader,PreferenceLoader,2.2.8,iphoneos-arm64
 pro.ikghd.ikset,iKSettings,3.3,iphoneos-arm64
