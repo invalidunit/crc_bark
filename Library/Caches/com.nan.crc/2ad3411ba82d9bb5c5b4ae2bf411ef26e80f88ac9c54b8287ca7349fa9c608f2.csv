@@ -154,7 +154,7 @@ com.lns.duckoff,DuckOff,0.0.1,iphoneos-arm64
 com.lns.pogr,PodsGrant,0.3.0,iphoneos-arm64
 com.missthee.keepswitcheranimation15,keepSwitcherAnimation15,0.0.1,iphoneos-arm
 com.mohamedjj.instalivecam,InstaLiveCam,0.2.1-1,iphoneos-arm64
-com.mohamedjj.livecam,LiveCam for Facebook,0.3.4-1,iphoneos-arm64
+com.mohamedjj.livecam,LiveCam for Facebook,0.3.4-2,iphoneos-arm64
 com.mohamedjj.tiklivecam,TikLiveCam,0.4.0,iphoneos-arm64
 com.mostafa89.celltic,CellTic,1.3.1,iphoneos-arm64
 com.na9.tiktok,NA9 For TikTok,1.0~beta5-2+debug,iphoneos-arm64
@@ -211,7 +211,7 @@ net.joebruce.respringhelper,Respring Helper(重启桌面)-restart SpringBoard,1.
 net.joebruce.uninstallguard,UninstallGuard(卸载守护者) - forbid removing Apps,1.5.6,iphoneos-arm64
 net.limneos.livecalltranslator,Live Call Translator,0.1-41,iphoneos-arm64
 netskao.wechatpurification,微信净化,2026.04-6,iphoneos-arm64
-org.thebigboss.locationpin,LocationPin,1.2.0,iphoneos-arm64
+org.thebigboss.locationpin,LocationPin,1.2.1,iphoneos-arm64
 org.thebigboss.whatsapprevael,Whatsapp Revael,10.23,iphoneos-arm64
 preferenceloader,PreferenceLoader,2.2.8,iphoneos-arm64
 pro.ikghd.ikset,iKSettings,3.3,iphoneos-arm64
