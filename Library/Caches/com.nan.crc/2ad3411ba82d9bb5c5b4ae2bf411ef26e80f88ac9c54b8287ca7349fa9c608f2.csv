@@ -54,13 +54,13 @@ com.cydiageek.dailyfullscreenconfirm,DailyFullscreenConfirm,1.0.0,iphoneos-arm64
 com.cydiageek.denyphotoalbums,DenyPhotoAlbums,1.2.0,iphoneos-arm64
 com.cydiageek.discreetvoicememos,discreetVoiceMemos,1.1.2,iphoneos-arm64
 com.cydiageek.donetolock,DoneToLock,1.0.0,iphoneos-arm64
-com.cydiageek.doubletaptolock,DoubleTapToLock,1.0.3,iphoneos-arm64
+com.cydiageek.doubletaptolock,DoubleTapToLock,1.0.4,iphoneos-arm64
 com.cydiageek.downloadpercent,DownloadPercent,1.0.0,iphoneos-arm64
 com.cydiageek.ermete,Ermete,1.0.5,iphoneos-arm64
 com.cydiageek.fastdeletekey,FastDeleteKey,1.0.4,iphoneos-arm64
 com.cydiageek.flashy,Flashy,1.0.3,iphoneos-arm64
 com.cydiageek.glowy,Glowy,1.0.3,iphoneos-arm64
-com.cydiageek.gyration,Gyration,1.1.7,iphoneos-arm64
+com.cydiageek.gyration,Gyration,1.1.8,iphoneos-arm64
 com.cydiageek.gyrationapps,GyrationApps,1.0.3,iphoneos-arm64
 com.cydiageek.hapticsleep,HapticSleep,1.0.2,iphoneos-arm64
 com.cydiageek.hidecallbar,HideCallBar,1.0.0,iphoneos-arm64
@@ -155,7 +155,9 @@ com.lns.pogr,PodsGrant,0.3.0,iphoneos-arm64
 com.missthee.keepswitcheranimation15,keepSwitcherAnimation15,0.0.1,iphoneos-arm
 com.mohamedjj.instalivecam,InstaLiveCam,0.2.1-1,iphoneos-arm64
 com.mohamedjj.livecam,LiveCam for Facebook,0.3.4-2,iphoneos-arm64
+com.mohamedjj.messengerlivecam,MessengerLiveCam,0.3.1,iphoneos-arm64
 com.mohamedjj.tiklivecam,TikLiveCam,0.4.0,iphoneos-arm64
+com.mohamedjj.youtubelivecam,YouTubeLiveCam,0.3.5,iphoneos-arm64
 com.mostafa89.celltic,CellTic,1.3.1,iphoneos-arm64
 com.na9.tiktok,NA9 For TikTok,1.0~beta5-2+debug,iphoneos-arm64
 com.netskao.qqipadmodelogin,QQiPadModeLogin,1.1-1,iphoneos-arm64
@@ -167,6 +169,7 @@ com.opa334.ccsupport,CCSupport,1.3.13-2,iphoneos-arm64
 com.opa334.choicy,Choicy,1.5.4-2,iphoneos-arm64
 com.opa334.libsandy,libSandy,1.1.6-4,iphoneos-arm64
 com.opa334.libundirect,libundirect,1.1.6,iphoneos-arm64
+com.qn.bettertelex,BetterTelex,0.2.1,iphoneos-arm64
 com.superdev.amg,AMG奔驰官方正版,18.1.1,iphoneos-arm64
 com.superdev.thor,Thor_雷神,3.0-1,iphoneos-arm64
 com.swing.bilibili,哔哩哔哩NoAds,1.1.0,iphoneos-arm64
@@ -202,7 +205,7 @@ me.ikghd.lsfcdenied,LSFCDenied,0.0.5,iphoneos-arm64
 me.liuming.apphider,App Hider(应用隐藏助手)-Make Apps disappeared from SpringBoard,2.3.0,iphoneos-arm64
 me.liuming.locationexpert,虚拟定位专家(GPS Faker Expert)-模拟导航，扫街,3.3.9,iphoneos-arm64
 me.liuming.locationhelper,虚拟定位助手 GPS Faker,5.7.5,iphoneos-arm64
-me.lochook.app,定个位-专业的位置修改软件,5.3.0,iphoneos-arm64
+me.lochook.app,定个位-专业的位置修改软件,5.4.0,iphoneos-arm64
 net.ajbbo.acgps,ACGPS,1.0,iphoneos-arm64
 net.joebruce.fakepicture,FakePicture(拍照替换)-taking pseudo selfie,1.9.2,iphoneos-arm64
 net.joebruce.fakeqrcode,FakeQRCode(二维码替换)-scan pseudo barcode,1.2.9,iphoneos-arm64
@@ -211,7 +214,7 @@ net.joebruce.respringhelper,Respring Helper(重启桌面)-restart SpringBoard,1.
 net.joebruce.uninstallguard,UninstallGuard(卸载守护者) - forbid removing Apps,1.5.6,iphoneos-arm64
 net.limneos.livecalltranslator,Live Call Translator,0.1-41,iphoneos-arm64
 netskao.wechatpurification,微信净化,2026.04-6,iphoneos-arm64
-org.thebigboss.locationpin,LocationPin,1.2.1,iphoneos-arm64
+org.thebigboss.locationpin,LocationPin,1.2.1-1,iphoneos-arm64
 org.thebigboss.whatsapprevael,Whatsapp Revael,10.23,iphoneos-arm64
 preferenceloader,PreferenceLoader,2.2.8,iphoneos-arm64
 pro.ikghd.ikset,iKSettings,3.3,iphoneos-arm64
