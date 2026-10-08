@@ -235,14 +235,14 @@ com.leftyfl1p.carbridge13,CarBridge,2.0.15,iphoneos-arm64
 com.leftyfl1p.carplay,CarBridge Legacy (old),1.0.9.5,iphoneos-arm
 com.leslyecream.lonie,Lonie,5.1.0,iphoneos-arm64
 com.matchstic.xenhtml,Xen HTML,2.0~release,iphoneos-arm
-com.mathelord.infobar,InfoBar,1.2.0,iphoneos-arm64
+com.mathelord.infobar,InfoBar,1.3.0,iphoneos-arm64
 com.matteozappia.sonic,Sonic,1.6,iphoneos-arm
 com.matteozappia.toneenablerpro,ToneEnablerPro,1.4,iphoneos-arm
 com.maxghani.gladient,Gladient,3.2,iphoneos-arm64
 com.maxpatchs.ango,Ango Full Theme Icons Settings UI Status Bar icons Music Control ,6.7,iphoneos-arm64
 com.maxpatchs.hepta,HEPTA Theme Icons Settings Badges,3.4,iphoneos-arm64
-com.maxpatchs.moxy,Moxy Theme Icons Settings,5.3,iphoneos-arm64
-com.maxpatchs.premium,Premium UI Theme and Icon Pack,2.7,iphoneos-arm64
+com.maxpatchs.moxy,Moxy Theme Icons Settings,5.4,iphoneos-arm64
+com.maxpatchs.premium,Premium UI Theme and Icon Pack,2.8,iphoneos-arm64
 com.megadev.jellylockreborn,JellyLock Reborn,1.1,iphoneos-arm
 com.megadev.sentinel,Sentinel,1.3.2,iphoneos-arm
 com.miguelaka95.bettercc,BetterCC,0.0.5,iphoneos-arm
@@ -328,6 +328,7 @@ com.peterdev.notchcontrol,NotchControl,1.0.1,iphoneos-arm
 com.peterdev.nothanks,BoardBanner13 (iOS 12~13),2.1.2,iphoneos-arm
 com.peterdev.powerguard,PowerGuard,2.0.3,iphoneos-arm
 com.peterdev.xeon,Xeon Lite,1.1.3,iphoneos-arm
+com.pitroytech.5rowpro,5Row Pro,1.19.0,iphoneos-arm64
 com.pixelomer.shijima-ios,Shijima (Shimeji for iOS),1.3.3,iphoneos-arm64
 com.pixelomer.shijima-ios-demo,Shijima Demo (Shimeji for iOS),1.0.3-demo,iphoneos-arm64
 com.pliskin.drawios,Draw iOS,1.3.4,iphoneos-arm64
@@ -388,7 +389,7 @@ com.synnyg.sphere,Sphere,2.0.2,iphoneos-arm
 com.synnyg.springsounds,SpringSounds,2.1,iphoneos-arm
 com.synnyg.switchus,Switchus,2.1.2,iphoneos-arm
 com.synnyg.vibrato,Vibrato,2.2,iphoneos-arm
-com.t4mag0.vidgrab,VidGrab,1.3.1,iphoneos-arm64
+com.t4mag0.vidgrab,VidGrab,1.3.2,iphoneos-arm64
 com.tako3s.printemps,Printemps,2.0.2,iphoneos-arm64
 com.tapsharp.jumper,Jumper,3.1.0,iphoneos-arm64
 com.tapsharp.libtapsharp,libTapSharp,1.0.5,iphoneos-arm
