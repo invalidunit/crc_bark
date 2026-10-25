@@ -40,6 +40,7 @@ com.amywhile.aemulo,Aemulo,1.2.5,iphoneos-arm64
 com.amywhile.aemulotrial,Aemulo (Trial),1.2.5,iphoneos-arm64
 com.amywhile.ccpatch13,CCPatch13,4.0.0,iphoneos-arm64
 com.aronsz26.lockscreenrestore,LockScreenRestore,1.9.5,iphoneos-arm64
+com.aronsz26.podaction,PodAction,1.0.1,iphoneos-arm64
 com.aviorrok.jumi,Jumi,2.1.2,iphoneos-arm64
 com.aviorrok.rupii,Rupi,1.1,iphoneos-arm64
 com.baconmania.jessi,JESSI,1.1.2-1,iphoneos-arm64
@@ -66,7 +67,7 @@ com.cardboardface.answeronheadphones,AnswerOnHeadphones,1.0.3,iphoneos-arm
 com.cardboardface.confirmrotate,ConfirmRotate,1.2.6,iphoneos-arm
 com.cardboardface.imlayingdowndamnit,ImLyingDownDamnit,1.4.7.1,iphoneos-arm
 com.cardboardface.watchmutemirror,WatchMuteMirror,1.1.3,iphoneos-arm
-com.catmcp.daemon,CatMCP,1.2.0,iphoneos-arm64
+com.catmcp.daemon,CatMCP,1.2.1,iphoneos-arm64
 com.catvnc.server,CatVNC,1.7.1,iphoneos-arm64
 com.cemck.ambience,Ambience,1.0.1,iphoneos-arm
 com.cemck.killx-pro,KillX Pro (iOS 13-14),3.0.2,iphoneos-arm
