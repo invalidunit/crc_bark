@@ -1,11 +1,11 @@
 Package,Name,Version,Architecture
 ch.xxtou.hudapp.jb,TrollSpeed JB,2.0-13,iphoneos-arm64e
 ch.xxtou.xxtouch,XXTouch Elite,5.4.5,iphoneos-arm64e
-codes.aurora.kayoko,Kayoko,3.2,iphoneos-arm64e
 com.82flex.amlyrics,AMLyrics,1.0,iphoneos-arm64e
 com.82flex.artworkspinner,ArtworkSpinner,1.6,iphoneos-arm64e
+com.82flex.cranepkdserverfix,Crane PKDServer Fix,0.0.1,iphoneos-arm64e
 com.82flex.iconrestore,Icon Restore,1.7,iphoneos-arm64e
-com.82flex.kayoko,Kayoko,4.3,iphoneos-arm64e
+com.82flex.kayoko,Kayoko,4.3.3,iphoneos-arm64e
 com.82flex.libsandyxpc,libSandyXpc,1.1,iphoneos-arm64e
 com.82flex.noredirect,No Redirect,2.1,iphoneos-arm64e
 com.82flex.ohmyinsets,Oh My Insets,1.2,iphoneos-arm64e
@@ -19,18 +19,13 @@ com.82flex.unseen,Unseen,0.0.5,iphoneos-arm64e
 com.82flex.wtvrbglauncher,语音转文字免跳转,1.2,iphoneos-arm64e
 com.82flex.xcodeanytroll,XcodeAnyTroll,1.1.3,iphoneos-arm64e
 com.byteage.xcoderootdebug,XcodeRootDebug,0.0.2,iphoneos-arm64e
-com.eevee.spotify,EeveeSpotify (Lessica Fork),6.0,iphoneos-arm64e
 com.ethanarbuckle.objsee-framework,objsee,0.0.2,iphoneos-arm64e
-com.evilpenguin.networksniffer,NetworkSniffer,1.0,iphoneos-arm64e
-com.ginsu.ytmusicultimate,YTMusicUltimate (Lessica Fork),2.3.1,iphoneos-arm64e
 com.joshua.volumeflex,VolumeFLEX,1.1,iphoneos-arm64e
 com.rpetrich.rocketbootstrap,RocketBootstrap,1.0.10~beta5,iphoneos-arm64
 de.finngaida.daynightswitch,DayNightSwitch,1.2,iphoneos-arm64e
-dev.traurige.kayoko,Kayoko,1.2-3,iphoneos-arm
 love.litten.rose,Rose 🌹,1.1.0,iphoneos-arm64e
 me.chichou.webinspect-global,webinspect,0.4,iphoneos-arm64e
-moe.misty.sslkillswitch3,SSL Kill Switch 3,1.4,iphoneos-arm64e
-org.swift.protobuf.swiftprotobuf,SwiftProtobuf,1.29.0,iphoneos-arm64e
+moe.misty.sslkillswitch3,SSL Kill Switch 3,1.4-3,iphoneos-arm64e
 system-cmds-memory-pressure,memory_pressure,880.120.1,iphoneos-arm64e
 wiki.qaq.colorfulwallpaperx,Colorful Wallpaper X,5.8,iphoneos-arm64e
 wiki.qaq.trapp.jb,TrollRecorder JB,4.7.5-3677,iphoneos-arm64e
