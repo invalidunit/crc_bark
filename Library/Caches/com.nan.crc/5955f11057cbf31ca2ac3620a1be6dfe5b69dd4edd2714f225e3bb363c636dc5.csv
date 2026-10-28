@@ -22,7 +22,9 @@ com.82flex.touchvis,Touch-Viz,4.2,iphoneos-arm64
 com.82flex.trollvnc,TrollVNC JB,3.2-272,iphoneos-arm64
 com.82flex.unseen,Unseen,0.0.5,iphoneos-arm64
 com.aadios.anxietea,AnxieTea,1.0.5,iphoneos-arm64
+com.aadios.camhop,CamHop,1.0.0,iphoneos-arm64
 com.aadios.nightstand,Nightstand,1.0.0,iphoneos-arm64
+com.aadios.tethera,Tethera,1.0.0,iphoneos-arm64
 com.adamseiter.animationsbefastplus,AnimationsBeFastPlus,5.1,iphoneos-arm
 com.adamseiter.animplus,AnimPlus,2.5,iphoneos-arm
 com.ahmad.asjtiktok,ASJTok,1.3,iphoneos-arm64
@@ -88,7 +90,7 @@ com.cultoftheilluminati.dynawall,DynaWall,3.1,iphoneos-arm
 com.cyrex.epiphany,Epiphany,1.0,iphoneos-arm64
 com.dcproducts.libdcweather,libDCWeather,1.0.0,iphoneos-arm64
 com.dvntm.cmm,CallMeMaybe,1.0.1,iphoneos-arm64
-com.dvntm.showmytouches,ShowMyTouches,1.1.2,iphoneos-arm64
+com.dvntm.showmytouches,ShowMyTouches,2.0,iphoneos-arm64
 com.dvntm.twitchdvn,TwitchDvnloader,0.0.2,iphoneos-arm64
 com.dvntm.ytmsponsorblock,Sponsorblock for YouTube Music,0.0.1,iphoneos-arm64
 com.eevee.amino,Eevee Amino Tweak,6.0,iphoneos-arm64
