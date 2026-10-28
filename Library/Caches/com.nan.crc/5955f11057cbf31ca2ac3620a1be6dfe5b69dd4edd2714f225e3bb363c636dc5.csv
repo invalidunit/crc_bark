@@ -50,7 +50,9 @@ com.BeBarhoum.Lucent,Lucent,2.3,iphoneos-arm64
 com.bengiannis.complications,Complications,4.0,iphoneos-arm
 com.bengiannis.manta,Manta,1.0.3,iphoneos-arm
 com.bengiannis.velaris,Velaris,1.1,iphoneos-arm
+com.besiktasliseba.macstatusbaranddock,MacStatusBar&Dock,1.5.2,iphoneos-arm64
 com.blacknoisy.prism,Prism,1.6.4,iphoneos-arm64
+com.blacknoisy.transneo,TransNeo,1.0.1,iphoneos-arm64
 com.bossgfx.elysian,Elysian,1.4,iphoneos-arm64
 com.bousrih.Blackviola,Viola Black,1.3,iphoneos-arm64
 com.bousrih.Darkviola,Viola Dark,1.9.4,iphoneos-arm64
@@ -112,6 +114,7 @@ com.ethanrdoesmc.arise,Arise,1.2.4,iphoneos-arm64
 com.fiore.calculatorconverter,CalculatorConverter,1.0,iphoneos-arm64
 com.fiore.calculatorhistory,CalculatorHistory,1.3,iphoneos-arm64
 com.fiore.jellyfishreborn,Jellyfish Reborn,1.1,iphoneos-arm64
+com.fizz.ripple,Fizz,0.1.0,iphoneos-arm64
 com.flarezephyr.Fine,Fine,1.2,iphoneos-arm64
 com.foxfort.akino,Akino,1.0.5,iphoneos-arm64
 com.foxfort.amazonite,AmazoNite,2.0.2,iphoneos-arm
@@ -163,12 +166,13 @@ com.hoangdus.konban,KonbanXV,1.0.1,iphoneos-arm64
 com.hoangdus.speedster,Speedster,2.1.2,iphoneos-arm64
 com.hopeless.wechatnoads,WeChatNoAds,0.0.2,iphoneos-arm64
 com.ibagraphics.Elusive,Elusive,2.1,iphoneos-arm64
-com.ichitaso.horythia,Horythia,1.0.0,iphoneos-arm64
+com.ichitaso.horythia,Horythia,1.1.0,iphoneos-arm64
 com.ichitaso.iconorder,IconOrder,1.0.5,iphoneos-arm64
 com.ichitaso.icontweak,IconTweak,1.0.9,iphoneos-arm
 com.ichitaso.icontweak2,IconTweak2,1.0.3,iphoneos-arm64
 com.ichitaso.killbackground13,KillBackground13 (13 - 26),1.1.4,iphoneos-arm64
 com.ichitaso.notifywifix,NotifyWiFi X,1.1.7,iphoneos-arm
+com.ichitaso.primalfolderpro,PrimalFolderPro,1.0.0,iphoneos-arm64
 com.ichitaso.textsearchpro2,TextSearchPro2,2.0.2,iphoneos-arm
 com.icraze.customplayer,CustomPlayer,1.1.2-1,iphoneos-arm
 com.icraze.customsnooze,CustomSnooze,1.0,iphoneos-arm64
@@ -500,6 +504,7 @@ me.tomt000.copylog,CopyLog,1.7,iphoneos-arm64
 me.tomt000.stageduo,Dynamic Stage,1.2,iphoneos-arm64
 moe.waru.hoshu,Hoshu,1.0.0,iphoneos-arm64
 moe.waru.jikan,Jikan,1.0.2,iphoneos-arm64
+moe.waru.soko,Soko,1.1.0,iphoneos-arm64
 net.sourceloc.instantcamera,InstantCamera,1.1,iphoneos-arm64
 net.sourceloc.pinanim,PinAnim,2.0,iphoneos-arm64
 one4studio.ares,Ares - Bundle,1.0,iphoneos-arm64
