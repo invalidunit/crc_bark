@@ -410,6 +410,7 @@ com.synnyg.springsounds,SpringSounds,2.1,iphoneos-arm
 com.synnyg.switchus,Switchus,2.1.2,iphoneos-arm
 com.synnyg.vibrato,Vibrato,2.2,iphoneos-arm
 com.t4mag0.powertrace,PowerTrace,1.0.3,iphoneos-arm64
+com.t4mag0.stackr,Stackr,1.0.1,iphoneos-arm64
 com.t4mag0.vidgrab,VidGrab,1.3.6c,iphoneos-arm64
 com.tako3s.printemps,Printemps,2.0.2,iphoneos-arm64
 com.tapsharp.jumper,Jumper,3.1.0,iphoneos-arm64
@@ -511,7 +512,7 @@ meow.bakera1n.stgexpansion,StageExpansion,1.0.1,iphoneos-arm64
 me.tomt000.copylog,CopyLog,1.7,iphoneos-arm64
 me.tomt000.stageduo,Dynamic Stage,1.2,iphoneos-arm64
 moe.waru.hoshu,Hoshu,1.0.0,iphoneos-arm64
-moe.waru.jikan,Jikan,1.1.0,iphoneos-arm64
+moe.waru.jikan,Jikan,1.2.0,iphoneos-arm64
 moe.waru.soko,Soko,1.1.0,iphoneos-arm64
 net.sourceloc.instantcamera,InstantCamera,1.1,iphoneos-arm64
 net.sourceloc.pinanim,PinAnim,2.0,iphoneos-arm64
