@@ -137,7 +137,7 @@ com.edualexxis.lsbhide,LSBHide,1.0,iphoneos-arm64
 com.erik.applockerplus,App加锁助手(App Lock),7.6.5,iphoneos-arm64
 com.erik.inapplock,In-App Locker(App内部锁),2.0.0,iphoneos-arm64
 com.erik.revealloader,RevealLoader for 24&50,1.0.1,iphoneos-arm64
-com.erik.unlocksentinel.rootless,解锁守卫(Unlock Sentinel),0.1.32,iphoneos-arm64
+com.erik.unlocksentinel.rootless,解锁守卫(Unlock Sentinel),0.1.37,iphoneos-arm64
 com.ethanrdoesmc.dawn,Dawn,1.2,iphoneos-arm64
 com.flex2areo.apptools15rootless,AppTools,1.0.3,iphoneos-arm64
 com.iadam1n.statusfolder,StatusFolder,1.0.2,iphoneos-arm64
@@ -161,7 +161,7 @@ com.mohamedjj.livecam,Facebook LiveCam,0.3.10,iphoneos-arm64
 com.mohamedjj.messengerlivecam,MessengerLiveCam,0.4.7,iphoneos-arm64
 com.mohamedjj.mjvirtualcamera,CamVortex Pro,1.0.4,iphoneos-arm64
 com.mohamedjj.snaplivecam,SnapLiveCam,0.3.10,iphoneos-arm64
-com.mohamedjj.theftguard,The Guardian,0.4.16,iphoneos-arm64
+com.mohamedjj.theftguard,The Guardian,4.3.1,iphoneos-arm64
 com.mohamedjj.tiktokfakelivecam,TikTokFakeLiveCam,1.0.7,iphoneos-arm64
 com.mohamedjj.whatsapplivecam,WhatsAppLiveCam,0.3.29,iphoneos-arm64
 com.mohamedjj.youtubelivecam,YouTubeLiveCam,0.4.9,iphoneos-arm64
