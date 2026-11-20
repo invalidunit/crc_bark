@@ -78,7 +78,7 @@ com.cydiageek.marina,Marina,1.2.4,iphoneos-arm64
 com.cydiageek.messagedatetime,MessageDateTime,1.0.1,iphoneos-arm64
 com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.6,iphoneos-arm64
 com.cydiageek.msgnometacircle,MSGNoMetaCircle,1.0.0,iphoneos-arm64
-com.cydiageek.myautolock,MyAutoLock,1.0.0,iphoneos-arm64
+com.cydiageek.myautolock,MyAutoLock,1.0.1,iphoneos-arm64
 com.cydiageek.myccstatuslabel,MyCCStatusLabel,1.0.1-1,iphoneos-arm64
 com.cydiageek.myscrollingbars,MyScrollingBars,1.0.1,iphoneos-arm64
 com.cydiageek.myswitches,MySwitches,1.0.8,iphoneos-arm64
@@ -156,7 +156,9 @@ com.lns.duckoff,DuckOff,0.0.1,iphoneos-arm64
 com.lns.pogr,PodsGrant,0.3.0,iphoneos-arm64
 com.missthee.keepswitcheranimation15,keepSwitcherAnimation15,0.0.1,iphoneos-arm
 com.mj.photozero,PhotoZero,1.2.2,iphoneos-arm64
+com.mohamedjj.campro,camPro,0.3.2,iphoneos-arm64
 com.mohamedjj.fakegpssystemwide,FakeGPSSystemWide,1.2.15,iphoneos-arm64
+com.mohamedjj.magiclocation,MagicLocation,0.2.0,iphoneos-arm64
 com.mohamedjj.mjvirtualcamera,CamVortex Pro,1.0.4,iphoneos-arm64
 com.mohamedjj.settingshide,Hide Anything in Settings,0.2.9,iphoneos-arm64
 com.mohamedjj.theftguard,The Guardian,4.3.2,iphoneos-arm64
