@@ -1386,7 +1386,7 @@ com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.6,iphoneos-arm
 com.cydiageek.movemyiconsdown,moveMyIconsDown,1.0.2,iphoneos-arm
 com.cydiageek.msgnometacircle,MSGNoMetaCircle,1.0.0,iphoneos-arm
 com.cydiageek.mtac.twitterbackfeedback,TwitterBackFeedBack,1.0.0,iphoneos-arm
-com.cydiageek.myautolock,MyAutoLock,1.0.1,iphoneos-arm
+com.cydiageek.myautolock,MyAutoLock,1.0.2,iphoneos-arm
 com.cydiageek.myccstatuslabel,MyCCStatusLabel,1.0.1,iphoneos-arm
 com.cydiageek.myfolderstitles,MyFoldersTitles,1.0.0,iphoneos-arm
 com.cydiageek.myhapticswitches,MyHapticSwitches,1.0.0,iphoneos-arm
@@ -1763,6 +1763,7 @@ com.erik.appnotify,AppNotify,1.2.0,iphoneos-arm
 com.erik.fakeloocation,位置穿越,1.0.3,iphoneos-arm
 com.erik.freemusicplayerpro,享乐音乐,4.0.6,iphoneos-arm
 com.erik.inapplock,In-App Locker(App内部锁),2.0.0,iphoneos-arm
+com.erik.notifycustom,通知定制(NotifyCustom),1.5.3,iphoneos-arm
 com.erik.simpleapplock,SimpleAppLock,1.0-2,iphoneos-arm
 com.erik.unlocksentinel.rootful,解锁守卫 Rootful (iOS 14-15),0.1.39,iphoneos-arm
 com.estertion.replaykiteverywhere,ReplayKit Everywhere,1.7.9,iphoneos-arm

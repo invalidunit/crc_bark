@@ -78,7 +78,7 @@ com.cydiageek.marina,Marina,1.2.4,iphoneos-arm64
 com.cydiageek.messagedatetime,MessageDateTime,1.0.1,iphoneos-arm64
 com.cydiageek.morelinesnotifications,MoreLinesNotifications,1.0.6,iphoneos-arm64
 com.cydiageek.msgnometacircle,MSGNoMetaCircle,1.0.0,iphoneos-arm64
-com.cydiageek.myautolock,MyAutoLock,1.0.1,iphoneos-arm64
+com.cydiageek.myautolock,MyAutoLock,1.0.2,iphoneos-arm64
 com.cydiageek.myccstatuslabel,MyCCStatusLabel,1.0.1-1,iphoneos-arm64
 com.cydiageek.myscrollingbars,MyScrollingBars,1.0.1,iphoneos-arm64
 com.cydiageek.myswitches,MySwitches,1.0.8,iphoneos-arm64
@@ -137,6 +137,7 @@ com.edualexxis.lsbhide,LSBHide,1.0,iphoneos-arm64
 com.erik.applockerplus,App加锁助手(App Lock),7.6.5,iphoneos-arm64
 com.erik.appnotify,AppNotify,1.2.0,iphoneos-arm64
 com.erik.inapplock,In-App Locker(App内部锁),2.0.0,iphoneos-arm64
+com.erik.notifycustom,通知定制(NotifyCustom),1.5.3,iphoneos-arm64
 com.erik.revealloader,RevealLoader for 24&50,1.0.1,iphoneos-arm64
 com.erik.unlocksentinel.rootless,解锁守卫(Unlock Sentinel),0.1.39,iphoneos-arm64
 com.ethanrdoesmc.dawn,Dawn,1.2,iphoneos-arm64
